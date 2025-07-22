@@ -2,118 +2,15 @@
 
 Das Kapitel "Geschäftsmodell" beschreibt unseren systematischen Ansatz zur energetischen Sanierung von WEGs und Mehrfamilienhäusern im Rheinischen Revier. Mit einem strukturierten Komplettservice lösen wir die typischen Pain-Points komplexer Sanierungsprojekte und schaffen planbare, qualitätsgesicherte Ergebnisse für alle Beteiligten.
 
-## 📋 Interaktives Inhaltsverzeichnis
-
-### [🎯 Überblick \& Vision](#%C3%BCberblick--vision)
-
-Unsere Mission: Energetische Sanierung so einfach wie einen Handwerkertermin - mit Festpreisgarantie und strukturierter Entscheidungshilfe für WEGs.
-
-### [🏠 Kundensegmente](#kundensegmente)
-
-- **Primär:** WEGs und Private Investoren im Rheinischen Revier
-- **Marktvolumen:** 41.200 Gebäude mit 5-20 Wohneinheiten
-- **Umsatzpotenzial:** €206-824 Mio. jährlich bei 1-2% Sanierungsquote
-
-
-### [💎 Value Proposition](#value-proposition--kundennutzen)
-
-**Schnell - Sicher - Reibungslos**
-
-- Moderierte Entscheidungsfindung für WEGs
-- Komplettservice aus einer Hand
-- Qualitätsgarantien statt Energieeinsparungsversprechen
-
-
-### [🏗️ Produkte \& Dienstleistungen](#produkte--dienstleistungen)
-
-- **Projektvolumen:** Ab 450.000€ (3+ Wohneinheiten)
-- **4-Phasen-Modell:** Entwicklung → Planung → Umsetzung → Betrieb
-- **Digitales Kundenportal** mit kostenlosen und Premium-Modulen
-
-
-### [💰 Erlösmodell](#erl%C3%B6smodell--revenue-streams)
-
-- Festpreise pro Leistungseinheit
-- Haupterlöse aus Komplettsanierungen
-- Zusatzerlöse: Wartung, digitale Services, Beratung
-
-
-### [📈 Vertriebskanäle](#vertriebskan%C3%A4le-channels)
-
-- Direktvertrieb und Kooperationspartner
-- Hausverwaltungen als Multiplikatoren
-- Regionale Präsenz und Empfehlungsmarketing
-
-
-### [🤝 Kundenbeziehungen](#kundenbeziehungen)
-
-- Persönliche Projektmanager
-- Digitales Portal für transparente Kommunikation
-- Langfristige Betreuung durch Wartungsverträge
-
-
-### [🔑 Schlüsselressourcen](#schl%C3%BCsselressourcen)
-
-- Qualifizierte Projektmanager und Bauleiter
-- Netzwerk zertifizierter Handwerkspartner
-- BIM-basierte IT-Plattform
-
-
-### [⚙️ Schlüsselaktivitäten](#schl%C3%BCsselaktivit%C3%A4ten)
-
-- HOAI-konforme Projektabwicklung
-- Qualitätssicherung durch externe Partner
-- Digitales Monitoring und Betriebsoptimierung
-
-
-### [🤝 Schlüsselpartner](#schl%C3%BCsselpartner)
-
-- Meisterbetriebe mit RAL-Zertifizierung
-- Unabhängige Energieberater (indicamus)
-- Fördermittel- und Finanzierungspartner
-
-
-### [💸 Kostenstruktur](#kostenstruktur)
-
-- Personal- und Betriebskosten
-- Projekt-spezifische Material- und Subunternehmerkosten
-- Skalierungseffekte ab 10+ Projekten pro Jahr
-
-
-### [🚀 Skalierung \& Innovation](#skalierungs--innovationspotenzial)
-
-- Geografische Expansion vom Raum Aachen auf ganz NRW
-- Integration neuer Technologien (KI, IoT, Smart Building)
-- Entwicklung eigener Projektpipeline
-
-
-### [🌱 Nachhaltigkeit \& ESG](#nachhaltigkeit--esg)
-
-- CO₂-Reduktion bis 80% pro saniertem Gebäude
-- Beitrag zur EU-Klimaziele und lokalen Energiewende
-- Angestrebte DGNB/BREEAM-Zertifizierungen
-
-
-## 📊 Kernkennzahlen
-
-| Kennzahl | Wert | Zeitrahmen |
-| :-- | :-- | :-- |
-| **Zielmarkt** | 41.200 Gebäude | Rheinisches Revier |
-| **Marktvolumen** | €206-824 Mio./Jahr | Bei 1-2% Sanierungsquote |
-| **Mindestprojekt** | 450.000€ | Ab 3 Wohneinheiten |
-| **Projektdauer** | 12 Monate | Auftrag bis Abnahme |
-| **Angestrebter Marktanteil** | 1-2% | Mittelfristig |
-
-
 ## Überblick & Vision
 
 Unsere Mission ist es, die energetische Gebäudesanierung für Wohnungseigentümergemeinschaften (WEGs) und private Investoren so unkompliziert, planbar und effizient wie möglich zu machen. Durch individuelle Komplettlösungen sorgen wir für gesicherte Qualität und maximale Prozessvereinfachung – von der ersten Beratung bis zur Abnahme. Im Rheinischen Revier wollen wir in den kommenden 5 bis 10 Jahren zum Marktführer im Bereich ganzheitlicher WEG-Sanierungen werden und unsere Leistungen sukzessive in weitere Regionen ausweiten.
 
-## 🏠 Kundensegmente
+<details> <summary>## 🏠 Kundensegmente</summary>
 
 Die energetische Sanierung steckt in Deutschland in einem Sanierungsstau. WEG‐Gebäude (Wohnungseigentümergemeinschaften) sind dabei das größte Sorgenkind – aber auch die größte Chance. Das Kapitel fasst Marktgröße, Pain-Points, Investitionsrahmen und Wettbewerbssituation leicht verständlich zusammen.
 
-### Marktgröße im Rheinischen Revier
+</details> ### Marktgröße im Rheinischen Revier
 
 Ein Blick auf die fünf Kernkreise zeigt ein enormes Potenzial an Mehrfamilienhäusern mit 5 – 20 Wohneinheiten – unserer Kernzielgruppe.
 
