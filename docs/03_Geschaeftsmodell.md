@@ -1,16 +1,17 @@
-# Geschäftsmodell - Zusammenfassung \& Inhaltsverzeichnis
+# Geschäftsmodell
 
-Das Kapitel "Geschäftsmodell" beschreibt unseren systematischen Ansatz zur energetischen Sanierung von WEGs und Mehrfamilienhäusern im Rheinischen Revier. Mit einem strukturierten Komplettservice lösen wir die typischen Pain-Points komplexer Sanierungsprojekte und schaffen planbare, qualitätsgesicherte Ergebnisse für alle Beteiligten.
-
-## Überblick & Vision
+## Zusammenfassung
 
 Unsere Mission ist es, die energetische Gebäudesanierung für Wohnungseigentümergemeinschaften (WEGs) und private Investoren so unkompliziert, planbar und effizient wie möglich zu machen. Durch individuelle Komplettlösungen sorgen wir für gesicherte Qualität und maximale Prozessvereinfachung – von der ersten Beratung bis zur Abnahme. Im Rheinischen Revier wollen wir in den kommenden 5 bis 10 Jahren zum Marktführer im Bereich ganzheitlicher WEG-Sanierungen werden und unsere Leistungen sukzessive in weitere Regionen ausweiten.
 
-<details> <summary>## 🏠 Kundensegmente</summary>
+<details> 
+<summary> 
+<h2>🏠 Kundensegmente</h2> 
+</summary>
 
 Die energetische Sanierung steckt in Deutschland in einem Sanierungsstau. WEG‐Gebäude (Wohnungseigentümergemeinschaften) sind dabei das größte Sorgenkind – aber auch die größte Chance. Das Kapitel fasst Marktgröße, Pain-Points, Investitionsrahmen und Wettbewerbssituation leicht verständlich zusammen.
 
-</details> ### Marktgröße im Rheinischen Revier
+### Marktgröße im Rheinischen Revier
 
 Ein Blick auf die fünf Kernkreise zeigt ein enormes Potenzial an Mehrfamilienhäusern mit 5 – 20 Wohneinheiten – unserer Kernzielgruppe.
 
@@ -29,7 +30,6 @@ Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier
 | **Summe** | **41,200** | **€206.0 Mio.** | **€824.0 Mio.** |
 
 **Schlüsselzahl:** Selbst bei nur 1% Sanierungsquote ergibt sich ein direkt adressierbares Jahresvolumen von über €200 Mio. im Kerngebiet – bei ambitionierten 2% über €800 Mio.
-
 ### Primäre Zielgruppen
 
 #### 🏢 Wohnungseigentümergemeinschaften (WEGs)
@@ -130,10 +130,12 @@ Der Markt im Rheinischen Revier bietet ein klar segmentiertes, finanziell anschl
 [^20]: https://ibf-aachen.de/sanierungsfoerderung/
 
 [^21]: https://energieagentur-regio-freiburg.eu/weg-der-zukunft/
+</details> 
 
-
-
-## 💎 Value Proposition / Kundennutzen
+<details>
+<summary>
+<h2>💎 Value Proposition / Kundennutzen</h2>
+</summary>
 
 Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Transparenz und Komfort in der energetischen Sanierung garantiert. Wir nehmen Komplexität und Unsicherheit aus dem Prozess – und schaffen tatsächlichen Mehrwert für Eigentümer, Verwaltungen und Investoren.
 
@@ -186,8 +188,8 @@ Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Tra
 | Komplettservice | Ein Ansprechpartner, alle Leistungen klar geregelt |
 
 **So sorgen wir für nachhaltige, stressfreie und finanziell sichere Sanierungsergebnisse – heute und in Zukunft!**
-
-## 🏗️ Produkte \& Dienstleistungen
+</details> 
+<details> <summary> <h2>🏗️ Produkte & Dienstleistungen</h2> </summary>
 
 Unser Leistungsangebot umfasst die komplette energetische Sanierung von Mehrfamilienhäusern und WEGs – von der ersten Projektidee bis zur laufenden Betriebsoptimierung. Dabei orientieren wir uns an bewährten HOAI-Standards und nutzen moderne BIM-Prozesse für maximale Transparenz und Qualität.
 
@@ -368,22 +370,251 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 <div style="text-align: center">⁂</div>
 
 [^1]: Projektphasen_Leistungsphasen.xlsx
+</details> 
+
+<details>
+<summary>
+<h2>💰 Erlösmodell</h2>
+</summary>
+
+Unser Erlösmodell basiert auf einer transparenten, phasengerechten Abrechnung kompletter Sanierungsprojekte. Durch die Kombination aus Haupterlösen (Komplettsanierung) und ergänzenden Services schaffen wir multiple, planbare Einnahmequellen für nachhaltiges Wachstum.
+
+### 🎯 Überblick: Drei Säulen unserer Erlöse
+
+| Erlössäule | Beschreibung | Anteil am Gesamtumsatz |
+| :-- | :-- | :-- |
+| **🏗️ Hauptgeschäft** | Komplette energetische Sanierungen | 85-90% |
+| **💻 Digitale Services** | Portal-Module, Monitoring, Abrechnungen | 5-10% |
+| **🔧 Service \& Wartung** | Wartungsverträge, Betriebsoptimierung | 5-10% |
+
+### 🏗️ Hauptgeschäft: Komplettsanierungen
+
+#### Projektvolumen und Zielkunden
+
+- **Mindestvolumen:** 450.000 € (ab 3 Wohneinheiten)
+- **Optimaler Bereich:** 500.000 € bis 2 Mio. € (5-20 Wohneinheiten)
+- **Zielkunden:** WEGs, private Investoren, Projektentwickler
 
 
-## Erlösmodell / Revenue Streams
+#### Preismodell: BIM-basierte Einheitspreise
 
-- Transparente Fixpreise pro definierter Einheit (z.B. m², Bauteil), angepasst an das konkrete Projekt
-- Mengen und Einkaufspreise liegen im unternehmerischen Risiko – nur Änderungen in der Planung führen zu Preisanpassungen
-- Keine erfolgsabhängigen Vergütungsmodelle, um Planung und Abrechnung klar zu halten
-- Zusatzerlöse durch Wartung, Service, Beratung und ggf. Finanzierungs- oder Maklerleistungen
+**So kalkulieren wir:**
 
-**Fragen:**
+1. **Digitales Gebäudemodell (BIM)** für jedes Projekt
+2. **Mengenermittlung nach VOB Teil B** - präzise und nachvollziehbar
+3. **Einheitspreise** für jede Leistungsposition (€/m², €/Stück, €/lfd. Meter)
+4. **Default-Werte** für alle unbekannten Positionen von Angebotsstart
+5. **Dynamische Anpassung** nur bei echten Planungsänderungen
 
-- Welche Abrechnungsmodi werden gewünscht (Abschlagszahlungen, Teilabrechnung nach Meilensteinen)?
-- Sollen Beratungsleistungen auch unabhängig von Bauprojekten angeboten werden?
+**Beispiel Standardpositionen:**
+
+- Fenster: Kunststoff, Dreifachverglasung, Mitteldichtung (Standard)
+- Upgrades: Holz-Alu-Fenster werden offen nachkalkuliert
+- Dämmung: Standard-Dämmstärke mit Upgrade-Optionen
 
 
-## Vertriebskanäle (Channels)
+### 💳 Zahlungsstruktur: Frontlastig durch BIM-Ansatz
+
+Anders als klassische HOAI-Projekte ist unser Erlösmodell **frontlastig** gestaltet. Durch intensive BIM-Planung und Digitalisierung schaffen wir früh Mehrwert und reduzieren Bauzeit sowie -kosten.
+
+#### Kostenverteilung (Beispiel: 1 Mio. € Projekt)
+
+| Phase | Leistung | Planungsanteil | Betrag | % Gesamt |
+| :-- | :-- | :-- | :-- | :-- |
+| **Phase 1** | Projektentwicklung, BIM-Modell | 25% | 50.000 € | 5% |
+| **Phase 2** | Fachplanung, Ausschreibung | 35% | 70.000 € | 7% |
+| **Phase 3** | Bauumsetzung, Überwachung | 40% + Baukosten | 880.000 € | 88% |
+| **Gesamt** | Komplettpaket | 100% | 1.000.000 € | 100% |
+
+**Unser Vorteil:** 20% Planungskosten (vs. 15-17% bei klassischer HOAI) führen zu:
+
+- ✅ Kürzere Bauzeit durch bessere Vorbereitung
+- ✅ Weniger Nachträge und Änderungen
+- ✅ Höhere Planungssicherheit für Kunden
+- ✅ Bessere Liquidität für unser Unternehmen
+
+
+#### Zahlungsablauf: Sicherheit für beide Seiten
+
+```
+1. ANZAHLUNG (5%) → Vertragsverbindlichkeit
+2. PHASE 1 ABSCHLUSS → Rechnung vor Präsentation
+3. BESPRECHUNGSTERMIN → Ergebnisse werden vorgestellt
+4. ZAHLUNG → Erst dann Übergabe aller Unterlagen
+5. PHASE 2 ABSCHLUSS → Gleicher Ablauf
+6. BAUPHASE → Regelmäßige VOB-Abschläge
+7. ENDABNAHME → Schlussrechnung
+```
+
+
+### 💻 Digitale Zusatzerlöse: Skalierbare Services
+
+#### Kundenportal: Freemium-Modell
+
+**Basic-Portal (kostenlos):**
+
+- Projektdokumentation und Verträge
+- Baufortschritt mit Foto-Updates
+- Direkter Kommunikationskanal
+- Gewährleistungsübersicht
+
+**Premium-Module (kostenpflichtig):**
+
+
+| Modul | Nutzen | Preis | Zielgruppe |
+| :-- | :-- | :-- | :-- |
+| **Digitale Nebenkostenabrechnung** | WEG-konforme Kostensplittung | 25-50€/Monat | WEGs |
+| **Erweiterte Verbrauchsanalytik** | Benchmarking, Optimierungsreports | 30-80€/Monat | Alle Kunden |
+| **Prädiktive Wartung** | Frühwarnsystem für Anlagenprobleme | 100-200€/Jahr | Investoren |
+| **Mieter-Kommunikationsportal** | Störungsmeldungen, Updates | 15-30€/Monat | Vermieter |
+
+#### Potenzial digitaler Services
+
+Bei **10 aktiven Projekten** mit durchschnittlich **8 Wohneinheiten**:
+
+- Basic-Portal: 80 Einheiten × 0€ = kostenlos (Kundenbindung)
+- Premium-Module: 60% Durchdringung × 80 Einheiten × 50€ = **2.400€/Monat**
+- **Jahresumsatz digitale Services: 28.800€**
+
+
+### 🔧 Service \& Wartung: Wiederkehrende Erlöse
+
+#### Wartungsverträge (ab Jahr 2)
+
+**Standard-Wartungspaket:**
+
+- Jährliche Anlageninspektion
+- Präventive Wartung (Heizung, Lüftung, PV)
+- Störungsbehebung und kleine Reparaturen
+- **Preis:** 5-8% des ursprünglichen Anlagenwertes/Jahr
+
+**Premium-Wartungspaket:**
+
+- 24h-Notdienst (perspektivisch)
+- Quartalsweise Inspektionen
+- Verbrauchsoptimierung und Finetuning
+- **Preis:** 8-12% des ursprünglichen Anlagenwertes/Jahr
+
+
+#### Beispielrechnung Wartungserlöse
+
+Bei einem **500.000€-Projekt** (Anlagenwert: 200.000€):
+
+- Standard-Wartung: 200.000€ × 6% = **12.000€/Jahr**
+- Nach 5 Jahren: 10 Projekte × 12.000€ = **120.000€/Jahr wiederkehrend**
+
+
+### 📈 Umsatzszenarien: Wachstumsperspektiven
+
+#### Marktpotenzial im Rheinischen Revier
+
+| Marktanteil | Projekte/Jahr | Ø Projektvolumen | Jahresumsatz | Zusatzerlöse | Gesamtumsatz |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| **0,5%** | 5 | 350.000€ | 1,75 Mio.€ | 50.000€ | **1,8 Mio.€** |
+| **1,0%** | 10 | 350.000€ | 3,5 Mio.€ | 150.000€ | **3,65 Mio.€** |
+| **2,0%** | 20 | 350.000€ | 7,0 Mio.€ | 400.000€ | **7,4 Mio.€** |
+| **5,0%** | 50 | 350.000€ | 17,5 Mio.€ | 1,1 Mio.€ | **18,6 Mio.€** |
+
+#### Entwicklung der Erlösstruktur
+
+**Jahr 1-2: Aufbau**
+
+- 95% Hauptgeschäft (Sanierungen)
+- 5% Digitale Services
+
+**Jahr 3-5: Diversifikation**
+
+- 85% Hauptgeschäft
+- 10% Digitale Services
+- 5% Wartung \& Service
+
+**Jahr 5+: Reife Phase**
+
+- 80% Hauptgeschäft
+- 12% Digitale Services
+- 8% Wartung \& Service
+
+
+### 🔒 Risikominimierung im Erlösmodell
+
+#### Finanzielle Absicherung
+
+**Zahlungssicherheit:**
+
+- Keine Vorleistungen ohne Bezahlung
+- Vertragserfüllungsbürgschaften bei Großprojekten
+- VOB-konforme Abschlagszahlungen
+
+**Preissicherheit:**
+
+- Festpreise nach Mengenermittlung
+- Transparente Nachtragsregelung
+- Nur echte Planungsänderungen führen zu Preisänderungen
+
+**Liquiditätssicherheit:**
+
+- Frontlastige Zahlungsstruktur
+- Mehrere Erlösquellen (nicht nur Projektgeschäft)
+- Wiederkehrende Umsätze durch Service \& Wartung
+
+
+#### Skalierungseffekte
+
+**Kostenreduktion durch Volumen:**
+
+- Bessere Einkaufskonditionen ab 10+ Projekten/Jahr
+- Standardisierte Prozesse reduzieren Planungsaufwand
+- Digitale Tools amortisieren sich bei höherer Projektanzahl
+
+**Margenverbesserung:**
+
+- Jahr 1: Aufbau von Prozessen und Partnerschaften
+- Jahr 2-3: Optimierung und erste Skaleneffekte
+- Jahr 4+: Stabile Margen durch etablierte Strukturen
+
+
+### 🎯 Erfolgsfaktoren für nachhaltiges Wachstum
+
+#### Kundenbindung durch Mehrwert
+
+- **Qualität vor Quantität:** Zufriedene Kunden werden zu Botschaftern
+- **Digitaler Mehrwert:** Portal und Services schaffen langfristige Bindung
+- **Persönliche Betreuung:** Projektmanager als dauerhafte Ansprechpartner
+
+
+#### Operative Exzellenz
+
+- **BIM-basierte Effizienz:** Frontlastige Planung spart Zeit und Kosten
+- **Partnernetzwerk:** Stabile, geschulte Handwerker garantieren Qualität
+- **Prozessstandardisierung:** Wiederholbare Abläufe für planbare Ergebnisse
+
+
+#### Finanzielle Nachhaltigkeit
+
+- **Mehrere Erlösquellen** reduzieren Abhängigkeit von einzelnen Projekten
+- **Wiederkehrende Umsätze** durch Service und digitale Abos
+- **Skalierbare Struktur** ermöglicht profitables Wachstum
+
+
+### 💡 Fazit: Ein durchdachtes, skalierbares Erlösmodell
+
+Unser Erlösmodell kombiniert bewährte Projektabrechnung mit innovativen, digitalen Zusatzservices. Durch die frontlastige Struktur schaffen wir früh Mehrwert für Kunden und sichern gleichzeitig unsere Liquidität. Die Ergänzung um wiederkehrende Erlöse aus Wartung und digitalen Services macht unser Geschäftsmodell nachhaltig und weniger abhängig von einzelnen Großprojekten.
+
+**Zentrale Erfolgsfaktoren:**
+
+- ✅ Transparente, BIM-basierte Kalkulation
+- ✅ Frontlastige Zahlungsstruktur für bessere Liquidität
+- ✅ Multiple Erlösquellen für Risikostreuung
+- ✅ Skalierbare digitale Services für langfristige Kundenbindung
+- ✅ Klare Wachstumspfade von 1,8 bis 18,6 Mio. € Jahresumsatz
+
+Mit diesem Erlösmodell sind wir bestens aufgestellt, um im wachsenden Markt der energetischen Sanierung erfolgreich zu skalieren und dabei sowohl für Kunden als auch für unser Unternehmen nachhaltigen Wert zu schaffen.
+</details>
+
+<details>
+<summary>
+<h2>Vertriebskanäle (Channels)</h2>
+</summary>
 
 - Direktvertrieb über Website, persönliche Akquise, Empfehlungen
 - Kooperationspartner wie Hausverwaltungen, Architekten, ausgewählte Handwerker
@@ -394,8 +625,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Welche Online-Kanäle/Maßnahmen zur Leadgenerierung sind geplant?
 - Gibt es regionale Kooperationspartner, die exklusiv eingebunden werden sollen?
 
-
-## Kundenbeziehungen
+</details>
+<details><summary><h2>Kudnenbeziehung</h2></summary>
 
 - Persönliche Begleitung durch erfahrene Projektmanager über alle Phasen
 - Klare Ansprechpartner und strukturierte Kommunikationstools
@@ -406,8 +637,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Wie könnte eine digitale Kundenplattform für Projektstatus/Baumanagement aussehen?
 - Ist eine Kundenbetreuung nach Fertigstellung (z.B. jährliche Checks) geplant?
 
-
-## Schlüsselressourcen
+</details>
+<details><summary><h2>Schlüsselresscouren</h2></summary> 
 
 - Eigene Projektmanager, Planer und Bauleiter
 - Qualifiziertes Netzwerk aus festen Handwerkspartnern und externen Sachverständigen
@@ -418,8 +649,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Wie hoch ist der geplante Personalbedarf je Projekt?
 - In welchen Bereichen ist Outsourcing (z.B. IT, Planung) denkbar?
 
-
-## Schlüsselaktivitäten
+</details>
+<details><summary><h2>Schlüsselaktivitäten</h2></summary> 
 
 - Projektberatung, -planung und Angebotserstellung
 - Organisation und Koordination der Gewerke, Bauleitung, Fördermittelmanagement
@@ -430,8 +661,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Soll die Dokumentation (digital/papierbasiert) dem Kunden standardmäßig zur Verfügung gestellt werden?
 - Wie werden Änderungen/Kundenwünsche im Prozess gehandhabt?
 
-
-## Schlüsselpartner
+</details>
+<details><summary><h2>Schlüsselpartner</h2></summary> 
 
 - Feste Handwerksbetriebe/Planungsbüros im Rahmen von Partnerschaften
 - Lieferanten nach Gewerken, direkte Verträge oder Fachgroßhandel je nach Produktgruppe
@@ -442,8 +673,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Sind Kooperationen mit Finanzdienstleistern oder Förderberatern angedacht?
 - Welche Kriterien gelten für die Auswahl und Bindung neuer Partner?
 
-
-## Kostenstruktur
+</details>
+<details><summary><h2>Kostenstruktur</h2></summary> 
 
 - Fixkosten: Personal, IT, Verwaltung, Marketing
 - Variable Kosten: Projektbezogene Material- und Vergabekosten, Subunternehmer
@@ -454,8 +685,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Wie wird das Marketingbudget aufgeteilt (digital vs. klassisch)?
 - Wie viele Projekte pro Jahr sind für die Rentabilität eingeplant?
 
-
-## Skalierung \& Innovation
+</details>
+<details><summary><h2>Skalierung & Innovation</h2></summary> 
 
 - Schrittweise Ausweitung vom Raum Aachen ins gesamte Rheinische Revier, perspektivisch NRW
 - Erweiterung des Leistungsangebots um neue Technologien (Smart Home, E-Mobilität, Batterie)
@@ -466,8 +697,8 @@ Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehenswe
 - Liegen bereits erste Überlegungen für F\&E-Vorhaben (z.B. digitale Tools, Produktinnovationen) vor?
 - Gibt es strategische Ziele für Umsatz- oder Projektzahlen in den nächsten 5 Jahren?
 
-
-## Nachhaltigkeit \& ESG
+</details>
+<details><summary><h2>Nachhaltigkeit & ESG</h2></summary> 
 
 Unser Geschäftsmodell leistet einen substanziellen Beitrag zur Energiewende und erfüllt aktuelle ESG-Anforderungen:
 
