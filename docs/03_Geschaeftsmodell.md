@@ -1,0 +1,311 @@
+# Geschäftsmodell
+
+## Überblick & Vision
+
+Unsere Mission ist es, die energetische Gebäudesanierung für Wohnungseigentümergemeinschaften (WEGs) und private Investoren so unkompliziert, planbar und effizient wie möglich zu machen. Durch individuelle Komplettlösungen sorgen wir für gesicherte Qualität und maximale Prozessvereinfachung – von der ersten Beratung bis zur Abnahme. Im Rheinischen Revier wollen wir in den kommenden 5 bis 10 Jahren zum Marktführer im Bereich ganzheitlicher WEG-Sanierungen werden und unsere Leistungen sukzessive in weitere Regionen ausweiten.
+
+## 🏠 Kundensegmente
+
+Die energetische Sanierung steckt in Deutschland in einem Sanierungsstau. WEG‐Gebäude (Wohnungseigentümergemeinschaften) sind dabei das größte Sorgenkind – aber auch die größte Chance. Das Kapitel fasst Marktgröße, Pain-Points, Investitionsrahmen und Wettbewerbssituation leicht verständlich zusammen.
+
+### Marktgröße im Rheinischen Revier
+
+Ein Blick auf die fünf Kernkreise zeigt ein enormes Potenzial an Mehrfamilienhäusern mit 5 – 20 Wohneinheiten – unserer Kernzielgruppe.
+
+![Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c211d5a1f48fca5f1c52298d4d4e6398/68931b51-8102-416a-825d-ff5deb590729/4f2e7c95.png)
+
+Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier
+
+
+| Kreis | Gebäude 5-20 WE | Marktvolumen bei 1% Sanierungsquote 50,000 € / WE | Marktvolumen bei 2% Sanierungsquote 100,000 € / WE |
+| :-- | :-- | :-- | :-- |
+| Aachen | 7,000[^1] | €35.0 Mio.[^2] | €140.0 Mio.[^2] |
+| Düren | 5,300[^1] | €26.5 Mio.[^2] | €106.0 Mio.[^2] |
+| Euskirchen | 4,500[^1] | €22.5 Mio.[^2] | €90.0 Mio.[^2] |
+| Rhein-Erft-Kreis | 6,400[^1] | €32.0 Mio.[^2] | €128.0 Mio.[^2] |
+| Köln | 18,000[^1] | €90.0 Mio.[^2] | €360.0 Mio.[^2] |
+| **Summe** | **41,200** | **€206.0 Mio.** | **€824.0 Mio.** |
+
+**Schlüsselzahl:** Selbst bei nur 1% Sanierungsquote ergibt sich ein direkt adressierbares Jahresvolumen von über €200 Mio. im Kerngebiet – bei ambitionierten 2% über €800 Mio.
+
+### Primäre Zielgruppen
+
+#### 🏢 Wohnungseigentümergemeinschaften (WEGs)
+
+- 70% der WEG-Gebäude sind energetisch unsaniert[^3][^4].
+- **Pain-Points:** komplizierte Beschlussfassung, fehlende Rücklagen, Unsicherheit zu Fördermitteln.
+- **Investitionsrahmen:** €50,000 – €150,000 pro Wohnung.
+- **Finanzierung:** überwiegend KfW-Kredite; Eigenkapital selten vorhanden.
+
+
+#### 💼 Private Investoren
+
+- Portfoliobesitzer mit 2-10 Mehrfamilienhäusern.
+- **Pain-Points:** Zeitaufwand, Koordination vieler Gewerke, Kostentransparenz.
+- **Vorteil für uns:** Festpreis pro Leistungseinheit minimiert ihr Risiko.
+
+
+### Sekundäre Zielgruppen
+
+- 🏗️ Projektentwickler \& Immobilienunternehmen – hohe Volumina, aber umkämpfter Markt.
+- 🗄️ Hausverwaltungen – Multiplikator zu vielen WEGs, stark preisgetrieben.
+- 🏢 Gewerbeimmobilienbesitzer – ESG-Druck wächst; längere Akquisezyklen.
+- 🏛️ Öffentliche Auftraggeber – große Projekte, aber langwierige Vergaben.
+
+
+### Kaufkraft \& Finanzierungsbereitschaft
+
+- Typische WEG-Sanierung: €50,000 – €150,000 pro Einheit.
+- 80% + der Maßnahmen werden kreditfinanziert; KfW-Programme (EH70/EH100) dominierend[^5].
+- Regionale Programme (Stadt Aachen, Strukturwandel Rheinisches Revier) erhöhen die Förderquote auf bis zu 30%[^6][^7].
+
+
+### Wettbewerb \& Positionierung
+
+| Wettbewerber | Schwäche bei WEGs | Unser USP |
+| :-- | :-- | :-- |
+| Lokale Handwerker | Kein Gesamtangebot, Bauherr muss koordinieren | Ein Ansprechpartner, Komplettservice |
+| Große Bauunternehmen | Fokus auf Neubau, geringe Flexibilität | Spezialisierung auf Bestands-WEG-Sanierung |
+| Andere GU | Preisvolatil, oft ohne Festpreisbindung | Preisstabile Einheitspreise \& klare Projektphasen |
+
+**Warum WEGs für die Konkurrenz schwierig sind:** Viele Entscheider, komplexe Beschlüsse, hoher Beratungsaufwand – wir lösen das mit moderierten Eigentümerversammlungen, Festpreisangeboten und Fördermittel-Service.
+
+### Umsatzszenarien 2026-2030 (Kerngebiet)
+
+| Marktanteil | Projekte/Jahr | Ø Umsatz/Projekt | Jahresumsatz |
+| :-- | :-- | :-- | :-- |
+| 0.5% | 5 | €350,000 | €1.8 Mio. |
+| 1.0% | 10 | €350,000 | €3.5 Mio. |
+| 2.0% | 20 | €350,000 | €7.0 Mio. |
+| 5.0% | 50 | €350,000 | €17.6 Mio. |
+
+### Fazit
+
+Der Markt im Rheinischen Revier bietet ein klar segmentiertes, finanziell anschlussfähiges Volumen. Unsere Festpreis-Komplettlösung adressiert exakt die größten Pain-Points der WEGs und positioniert uns gegenüber Handwerkern und klassischen Bauunternehmen als einzigartiger Problemlöser.
+
+### Quellen
+
+<div style="text-align: center">⁂</div>
+
+[^1]: wohnungen_nach_gebaeudegroesse.csv
+
+[^2]: https://www.bvfi24.de/sanierungsquote-2024-weiter-auf-geringem-niveau
+
+[^3]: https://www.getec-freiburg.de/fileadmin/content/GETEC/PDF_Dokumente/Vortraege_2023/FF_2023-02-12_Hillenbach_WEG.pdf
+
+[^4]: https://www.energie-experten.org/news/schlechteste-sanierungsrate-weg-gebaeude-werden-zum-waermewende-problem
+
+[^5]: https://www.ihk.de/aachen/innovation/energie/foerdermittel-energieeffizienz/kfw-energieeffizienzprogramm-2716766
+
+[^6]: https://oekozentrum.nrw/aktuelles/detail/news/neues-foerderangebot-fuer-das-rheinische-revier/
+
+[^7]: https://www.energy4climate.nrw/aktuelles/newsroom/lebenswerte-zukunft-im-rheinischen-revier-neues-foerderprogramm-zur-energetischen-sanierung-von-gebaeuden-startet
+
+[^8]: https://cwim.de/sanierungsrate-im-gebaeudebestand-bleibt-hinter-zielen-zurueck/
+
+[^9]: https://bossmann-aachen-maastricht.de/leistungen/energetische-sanierung/
+
+[^10]: https://www.geb-info.de/denkmal-und-altbau/sanierungsquote-ist-2024-leicht-gesunken
+
+[^11]: https://www.wohnen-im-eigentum.de/system/files/WiE-Umfrage-MOD-Auswertung-2017-end.pdf
+
+[^12]: https://vdiv.de/news-details/sanierungstaetigkeit-quote-bei-nur-noch-061-prozent-im-4quartal
+
+[^13]: https://vdiv.de/publikationen/magazine/detail/unser-ziel-ist-eine-sanierungsquote-von-25-bis-3-prozent
+
+[^14]: https://www.rheinisches-revier.de/neue-foerderung-fuer-klimafreundliche-gebaeudesanierung-im-rheinischen-revier-gestartet
+
+[^15]: https://renewa.de/standorte/aachen
+
+[^16]: https://www.hausverwalter.de/download/C130cdfdfX1545c57fba2XY40ab/2015-03-13 Wohneigentum-als-VermÃ¶gensbildung_02%20-%20M.%20Ka%C3%83%C5%B8ler.pdf
+
+[^17]: https://buveg.de/sanierungsquote/
+
+[^18]: https://vdiv.de/news-details/08-prozent-sanierungsrate-im-gebaeudebestand-muss-sich-verdoppeln
+
+[^19]: https://kommunalagentur.nrw/praxis/foerderung-rheinisches-revier/
+
+[^20]: https://ibf-aachen.de/sanierungsfoerderung/
+
+[^21]: https://energieagentur-regio-freiburg.eu/weg-der-zukunft/
+
+
+
+## 💎 Value Proposition / Kundennutzen
+
+Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Transparenz und Komfort in der energetischen Sanierung garantiert. Wir nehmen Komplexität und Unsicherheit aus dem Prozess – und schaffen tatsächlichen Mehrwert für Eigentümer, Verwaltungen und Investoren.
+
+### ⭐ Was macht unser Angebot einzigartig?
+
+**SICHERHEIT DURCH QUALITÄT**
+
+- **Ausschließlich geprüfte Meisterbetriebe:** Wir arbeiten ausschließlich mit qualifizierten Handwerksunternehmen zusammen, die über anerkannten Meisterstatus verfügen.
+- **RAL- und vergleichbare Zertifikate:** Unsere Partner verfügen über relevante RAL-Zertifizierungen und weitere branchenspezifische Gütesiegel.
+- **Eigene Schulungsprogramme:** Jeder Partner durchläuft eine umfassende Schulung, die unsere Standards und Schwerpunkte rund um hochwertige energetische Sanierung vermittelt.
+- **Unabhängige Qualitätskontrolle:** Sämtliche Leistungen werden durch interne QS-Prozesse sowie – nach Bedarf – durch externe, unabhängige Sachverständige überwacht.
+- **Dokumentierte Qualität:** Alle Maßnahmen, Prüfungen und Nachweise sind jederzeit im Kundenportal abrufbar.
+
+
+### 🔎 Monitoring \& Transparenz im Betrieb
+
+**Mehr als Bauqualität – auch nach der Sanierung!**
+
+- **Digitales Gebäudemodell (IFC):** Sämtliche energetisch relevanten Daten werden direkt im digitalen Gebäudemodell (IFC) gespeichert.
+- **Monitoring im Betrieb:** Verbräuche und Energiekennzahlen werden automatisiert gesammelt und analysiert.
+- **Benchmarks \& Auswertungen:** Im Portal stehen Verbrauchsreports und Vergleichswerte (vor und nach der Sanierung) zur Verfügung.
+- **Optimierungsmöglichkeiten:** Auf Basis der überwachten Daten bieten wir konkrete Hinweise, um Anlageneinstellungen oder Nutzerverhalten im Betrieb weiter zu verbessern.
+- **Faire Abrechnung:** Die Verbrauchsdaten bilden zugleich die Grundlage für eine faire, transparente Abrechnung bei gemeinschaftlich genutzten Liegenschaften.
+
+
+### 🖥️ Digitales Kundenportal: Ihr Projekt, Ihre Daten
+
+| Vorteil | Nutzen für den Kunden |
+| :-- | :-- |
+| Zentrale Dokumentensammlung | Alle Verträge, Pläne, Berichte \& Abnahmen digital und sicher |
+| Baufortschritt live verfolgen | Immer aktuell informiert über Meilensteine und Status |
+| Nutzungs- \& Betriebsauswertung | Übersichten zu Verbrauch, Kosten und Optimierungspotenzialen |
+| Kommunikation \& Service | Direkter Kontaktkanal, Ticketingsystem für offene Fragen |
+
+### 🤝 Serviceversprechen \& Entwicklung
+
+- **Service ab dem ersten Tag:** Persönliche Ansprechpartner begleiten Sie vom Erstgespräch bis zur Abnahme.
+- **Perspektive 24h-Notdienst:** Zum Marktstart kooperieren wir mit ausgewählten Externen für Notdienste. Eigene 24h-Strukturen bauen wir als langfristiges Ziel auf.
+- **Individuelle Betreuung:** Unser Team steht Ihnen auch nach der Sanierung mit Support, Wartungsangeboten und Betriebsoptimierung zur Seite.
+
+
+### 🏅 Der Mehrwert im Überblick
+
+| Qualitätsmerkmal | Ihr Vorteil |
+| :-- | :-- |
+| Handwerker mit RAL | Höchste Ausführungsstandards, weniger Reklamationen |
+| QS \& Schulung | Einheitliche Qualität, professionelle Zusammenarbeit |
+| Objekt-Monitoring | Klarheit über Verbrauch \& Kosten, schnelle Optimierung |
+| Digitalportal | Transparenz, Übersicht \& Sicherheit ohne Papierchaos |
+| Komplettservice | Ein Ansprechpartner, alle Leistungen klar geregelt |
+
+**So sorgen wir für nachhaltige, stressfreie und finanziell sichere Sanierungsergebnisse – heute und in Zukunft!**
+
+
+## Produkte & Dienstleistungen
+
+Wir bieten ausschließlich individuell geplante Komplettsanierungen an, die sämtliche Gewerke und technische Komponenten umfassen:
+
+- **Bauliche Maßnahmen:** Dach, Fassade, Fenster, Türen, Decken, Keller, Balkone, Bodenplatten
+- **Technik:** Elektrik, Internet, SmartHome, Photovoltaik, Wärmepumpe, Lüftungsanlage, Heiztechnik, Steuerung/Regelung
+- **Service:** Umfassende Gewährleistung, flexible Wartungsverträge, optional verlängerbare Garantien
+
+**Fragen:**
+
+- Welche Service-Level-Agreements (z.B. Notfall-Hotline, Reaktionszeiten) möchten Sie zusätzlich anbieten?
+- Gibt es Mindest-umfänge pro Auftrag oder können auch Teilmaßnahmen beauftragt werden?
+
+
+## Erlösmodell / Revenue Streams
+
+- Transparente Fixpreise pro definierter Einheit (z.B. m², Bauteil), angepasst an das konkrete Projekt
+- Mengen und Einkaufspreise liegen im unternehmerischen Risiko – nur Änderungen in der Planung führen zu Preisanpassungen
+- Keine erfolgsabhängigen Vergütungsmodelle, um Planung und Abrechnung klar zu halten
+- Zusatzerlöse durch Wartung, Service, Beratung und ggf. Finanzierungs- oder Maklerleistungen
+
+**Fragen:**
+
+- Welche Abrechnungsmodi werden gewünscht (Abschlagszahlungen, Teilabrechnung nach Meilensteinen)?
+- Sollen Beratungsleistungen auch unabhängig von Bauprojekten angeboten werden?
+
+
+## Vertriebskanäle (Channels)
+
+- Direktvertrieb über Website, persönliche Akquise, Empfehlungen
+- Kooperationspartner wie Hausverwaltungen, Architekten, ausgewählte Handwerker
+- Gezielte Präsenz auf Messen und Branchenevents
+
+**Fragen:**
+
+- Welche Online-Kanäle/Maßnahmen zur Leadgenerierung sind geplant?
+- Gibt es regionale Kooperationspartner, die exklusiv eingebunden werden sollen?
+
+
+## Kundenbeziehungen
+
+- Persönliche Begleitung durch erfahrene Projektmanager über alle Phasen
+- Klare Ansprechpartner und strukturierte Kommunikationstools
+- After-Sales-Service durch optionale Wartungsverträge und regelmäßige Bestandskundenpflege
+
+**Fragen:**
+
+- Wie könnte eine digitale Kundenplattform für Projektstatus/Baumanagement aussehen?
+- Ist eine Kundenbetreuung nach Fertigstellung (z.B. jährliche Checks) geplant?
+
+
+## Schlüsselressourcen
+
+- Eigene Projektmanager, Planer und Bauleiter
+- Qualifiziertes Netzwerk aus festen Handwerkspartnern und externen Sachverständigen
+- IT-Plattform für Prozessmanagement und Kundenkommunikation
+
+**Fragen:**
+
+- Wie hoch ist der geplante Personalbedarf je Projekt?
+- In welchen Bereichen ist Outsourcing (z.B. IT, Planung) denkbar?
+
+
+## Schlüsselaktivitäten
+
+- Projektberatung, -planung und Angebotserstellung
+- Organisation und Koordination der Gewerke, Bauleitung, Fördermittelmanagement
+- Qualitätssicherung intern und durch externe Prüfer
+
+**Fragen:**
+
+- Soll die Dokumentation (digital/papierbasiert) dem Kunden standardmäßig zur Verfügung gestellt werden?
+- Wie werden Änderungen/Kundenwünsche im Prozess gehandhabt?
+
+
+## Schlüsselpartner
+
+- Feste Handwerksbetriebe/Planungsbüros im Rahmen von Partnerschaften
+- Lieferanten nach Gewerken, direkte Verträge oder Fachgroßhandel je nach Produktgruppe
+- Unabhängige Sachverständige zur externen Überwachung
+
+**Fragen:**
+
+- Sind Kooperationen mit Finanzdienstleistern oder Förderberatern angedacht?
+- Welche Kriterien gelten für die Auswahl und Bindung neuer Partner?
+
+
+## Kostenstruktur
+
+- Fixkosten: Personal, IT, Verwaltung, Marketing
+- Variable Kosten: Projektbezogene Material- und Vergabekosten, Subunternehmer
+- Break-even: hängt von Projektdichte, durchschnittlichem Projektvolumen und Skaleneffekten ab
+
+**Fragen:**
+
+- Wie wird das Marketingbudget aufgeteilt (digital vs. klassisch)?
+- Wie viele Projekte pro Jahr sind für die Rentabilität eingeplant?
+
+
+## Skalierung \& Innovation
+
+- Schrittweise Ausweitung vom Raum Aachen ins gesamte Rheinische Revier, perspektivisch NRW
+- Erweiterung des Leistungsangebots um neue Technologien (Smart Home, E-Mobilität, Batterie)
+- Technische Innovationen insbesondere im digitalen Prozessmanagement und Kundenservice
+
+**Fragen:**
+
+- Liegen bereits erste Überlegungen für F\&E-Vorhaben (z.B. digitale Tools, Produktinnovationen) vor?
+- Gibt es strategische Ziele für Umsatz- oder Projektzahlen in den nächsten 5 Jahren?
+
+
+## Nachhaltigkeit \& ESG
+
+Unser Geschäftsmodell leistet einen substanziellen Beitrag zur Energiewende und erfüllt aktuelle ESG-Anforderungen:
+
+- Deutlich reduzierte CO₂-Emissionen pro saniertem Gebäude
+- Zielgruppengerechte Information zu Fördermöglichkeiten und nachhaltigen Standards
+- Anstreben relevanter Zertifikate (z.B. DGNB, BREEAM)
+
+**Fragen:**
+
+- Wie sollen CO₂-Einsparungen projektspezifisch dokumentiert werden?
+- Welche Zertifizierungen sind konkret für die Projekte vorgesehen?

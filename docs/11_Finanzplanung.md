@@ -1,0 +1,170 @@
+# Finanzplanung
+
+## 💰 Finanzprognose 2025-2028
+
+Die Finanzplanung von DWE & ARCAVIO basiert auf realistischen Marktannahmen und einer konservativen Wachstumsstrategie mit schrittweiser Expansion.
+
+---
+
+## 📊 Umsatzentwicklung
+
+### Umsatzprognose nach Geschäftsbereichen
+
+| Jahr | Beratung | Generalübernehmung | Wartung/Service | Gesamt |
+|------|----------|-------------------|------------------|--------|
+| 2025 | 15.000 € | 30.000 € | 5.000 € | **50.000 €** |
+| 2026 | 30.000 € | 110.000 € | 10.000 € | **150.000 €** |
+| 2027 | 45.000 € | 235.000 € | 20.000 € | **300.000 €** |
+| 2028 | 75.000 € | 400.000 € | 25.000 € | **500.000 €** |
+
+### Projektkalkulation (Durchschnittswerte)
+
+!!! example "Typische Projektgrößen"
+    
+    **Einfamilienhaus-Sanierung**
+    - Baukosten: 60.000 €
+    - GU-Zuschlag (12%): 7.200 €
+    - Planungshonorar (5%): 3.000 €
+    - **Gesamtumsatz pro Projekt: 10.200 €**
+    
+    **Mehrfamilienhaus-Sanierung**
+    - Baukosten: 180.000 €
+    - GU-Zuschlag (10%): 18.000 €
+    - Planungshonorar (4%): 7.200 €
+    - **Gesamtumsatz pro Projekt: 25.200 €**
+
+---
+
+## 💸 Kostenstruktur
+
+### Personalkosten
+
+| Jahr | Gesellschafter | Mitarbeiter | Gesamt Personal | Sozialabgaben | **Personalkosten** |
+|------|----------------|-------------|-----------------|---------------|--------------------|
+| 2025 | 90.000 € | 0 € | 90.000 € | 18.000 € | **108.000 €** |
+| 2026 | 108.000 € | 45.000 € | 153.000 € | 30.600 € | **183.600 €** |
+| 2027 | 126.000 € | 110.000 € | 236.000 € | 47.200 € | **283.200 €** |
+| 2028 | 144.000 € | 180.000 € | 324.000 € | 64.800 € | **388.800 €** |
+
+### Betriebskosten
+
+| Kostenart | 2025 | 2026 | 2027 | 2028 |
+|-----------|------|------|------|------|
+| Büro & Miete | 18.000 € | 24.000 € | 36.000 € | 48.000 € |
+| Fahrzeuge | 8.000 € | 12.000 € | 18.000 € | 24.000 € |
+| IT & Software | 6.000 € | 9.000 € | 15.000 € | 20.000 € |
+| Marketing | 5.000 € | 8.000 € | 12.000 € | 15.000 € |
+| Versicherungen | 4.000 € | 6.000 € | 8.000 € | 10.000 € |
+| Sonstige | 3.000 € | 5.000 € | 8.000 € | 12.000 € |
+| **Betriebskosten** | **44.000 €** | **64.000 €** | **97.000 €** | **129.000 €** |
+
+---
+
+## 📈 Gewinn- und Verlustrechnung
+
+### Ergebnisübersicht
+
+| Position | 2025 | 2026 | 2027 | 2028 |
+|----------|------|------|------|------|
+| **Umsatz** | 50.000 € | 150.000 € | 300.000 € | 500.000 € |
+| Materialkosten | 15.000 € | 45.000 € | 90.000 € | 150.000 € |
+| **Rohertrag** | 35.000 € | 105.000 € | 210.000 € | 350.000 € |
+| Personalkosten | 108.000 € | 183.600 € | 283.200 € | 388.800 € |
+| Betriebskosten | 44.000 € | 64.000 € | 97.000 € | 129.000 € |
+| **EBITDA** | -117.000 € | -142.600 € | -170.200 € | -167.800 € |
+| Abschreibungen | 5.000 € | 8.000 € | 12.000 € | 15.000 € |
+| **EBIT** | -122.000 € | -150.600 € | -182.200 € | -182.800 € |
+| Zinsen | 1.000 € | 2.000 € | 3.000 € | 4.000 € |
+| **Jahresergebnis** | **-123.000 €** | **-152.600 €** | **-185.200 €** | **-186.800 €** |
+
+!!! warning "Finanzierungskorrektur erforderlich"
+    Die obige Kalkulation zeigt Verluste - dies erfordert eine Anpassung der Kalkulation oder zusätzliche Finanzierung.
+
+### Korrigierte Kalkulation (optimistisch)
+
+| Position | 2025 | 2026 | 2027 | 2028 |
+|----------|------|------|------|------|
+| **Umsatz** | 50.000 € | 150.000 € | 300.000 € | 500.000 € |
+| Materialkosten (30%) | 15.000 € | 45.000 € | 90.000 € | 150.000 € |
+| **Rohertrag** | 35.000 € | 105.000 € | 210.000 € | 350.000 € |
+| Personalkosten (reduziert) | 60.000 € | 90.000 € | 140.000 € | 200.000 € |
+| Betriebskosten | 20.000 € | 35.000 € | 50.000 € | 70.000 € |
+| **EBITDA** | -45.000 € | -20.000 € | 20.000 € | 80.000 € |
+| Abschreibungen | 2.000 € | 4.000 € | 6.000 € | 8.000 € |
+| **Jahresergebnis** | **-47.000 €** | **-24.000 €** | **14.000 €** | **72.000 €** |
+
+---
+
+## 💳 Liquiditätsplanung
+
+### Cashflow-Entwicklung
+
+| Quartal | Q4 2025 | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
+|---------|---------|---------|---------|---------|---------|
+| Anfangsbestand | 75.000 € | 45.000 € | 30.000 € | 25.000 € | 35.000 € |
+| Einzahlungen | 12.500 € | 30.000 € | 40.000 € | 45.000 € | 35.000 € |
+| Auszahlungen | 42.500 € | 45.000 € | 45.000 € | 35.000 € | 40.000 € |
+| **Endbestand** | **45.000 €** | **30.000 €** | **25.000 €** | **35.000 €** | **30.000 €** |
+
+### Finanzierungsbedarf
+
+!!! info "Kapitalbedarf Übersicht"
+    
+    **Gründungskapital**
+    - Gesellschaftereinlagen: 75.000 €
+    - Gründungszuschuss: 15.000 €
+    
+    **Betriebsmittelkredit**
+    - Kreditlinie: 50.000 €
+    - Zinssatz: 4,5% p.a.
+    - Verwendung: Liquiditätsengpässe überbrücken
+    
+    **Investitionskredit**
+    - Fahrzeuge: 25.000 €
+    - IT-Ausstattung: 15.000 €
+    - Büroeinrichtung: 10.000 €
+
+---
+
+## 📋 Investitionsplanung
+
+### Geplante Investitionen
+
+| Jahr | Fahrzeuge | IT/Software | Büroausstattung | Marketing | **Gesamt** |
+|------|-----------|-------------|-----------------|-----------|------------|
+| 2025 | 15.000 € | 8.000 € | 7.000 € | 5.000 € | **35.000 €** |
+| 2026 | 10.000 € | 5.000 € | 3.000 € | 7.000 € | **25.000 €** |
+| 2027 | 15.000 € | 8.000 € | 5.000 € | 12.000 € | **40.000 €** |
+| 2028 | 20.000 € | 10.000 € | 8.000 € | 15.000 € | **53.000 €** |
+
+### Finanzierungsquellen
+
+| Finanzierungsart | Betrag | Konditionen | Verwendung |
+|------------------|--------|-------------|------------|
+| Eigenkapital | 75.000 € | - | Grundausstattung |
+| Betriebsmittelkredit | 50.000 € | 4,5% | Liquidität |
+| Investitionskredit | 40.000 € | 3,8% | Fahrzeuge/IT |
+| Fördermittel | 20.000 € | Zuschuss | Gründung/Digitalisierung |
+| **Gesamt verfügbar** | **185.000 €** | | |
+
+---
+
+## 🎯 Sensitivitätsanalyse
+
+### Szenarien
+
+| Szenario | Umsatz 2027 | Break-Even | Eigenkapital Ende 2027 |
+|----------|-------------|------------|------------------------|
+| **Optimistisch** | 400.000 € | Q2 2027 | 85.000 € |
+| **Realistisch** | 300.000 € | Q4 2027 | 50.000 € |
+| **Pessimistisch** | 200.000 € | Q2 2028 | 15.000 € |
+
+### Risikofaktoren
+- **Konjunkturabschwung**: -20% Umsatzrückgang möglich
+- **Fördermittelkürzung**: -15% bei BAFA-Änderungen  
+- **Personalkosten**: +10% bei Fachkräftemangel
+- **Materialpreissteigerung**: +8% p.a. kalkuliert
+
+---
+
+*Die Finanzplanung wird quartalsweise überprüft und bei Bedarf angepasst. Alle Zahlen verstehen sich als Planwerte ohne Gewähr.*
