@@ -613,29 +613,136 @@ Mit diesem Erlösmodell sind wir bestens aufgestellt, um im wachsenden Markt der
 
 <details>
 <summary>
-<h2>Vertriebskanäle (Channels)</h2>
+<h2>📈 Vertriebskanäle (Channels)</h2>
 </summary>
 
-- Direktvertrieb über Website, persönliche Akquise, Empfehlungen
-- Kooperationspartner wie Hausverwaltungen, Architekten, ausgewählte Handwerker
-- Gezielte Präsenz auf Messen und Branchenevents
+Ein schlankes, auf Qualität und persönliche Kontakte ausgerichtetes Vertriebssystem sorgt für sichere, messbare Akquise – ohne Streuverluste und Provisionskonflikte. Energieberater filtern Anfragen vor, die Website liefert qualifizierte Leads, Events und Partnernetzwerk bauen Vertrauen und Reichweite auf.
 
-**Fragen:**
+### Warum unser Vertrieb wirkt
 
-- Welche Online-Kanäle/Maßnahmen zur Leadgenerierung sind geplant?
-- Gibt es regionale Kooperationspartner, die exklusiv eingebunden werden sollen?
+- Qualifizierte Leads durch unabhängige Energieberater als Erstfilter
+- Website und SEO als zentrale Leadquelle, statt schnelle Paid-Ads
+- Events \& Messen: Persönlicher Vertriebsaufbau und hochkarätige Geschäftskontakte
+- Partnernetzwerk (Energieberater, Architekten, Hausverwaltungen): Kooperation ohne Provisionen für ehrliche Empfehlungen
+- Stufenweite Expansion von der Region ins gesamte Bundesgebiet
 
+
+#### 🔑 Kanal-Mix im Überblick
+
+| Kanal | Rolle | Budgetanteil (5% vom Umsatz) | KPI-Fokus |
+| :-- | :-- | :-- | :-- |
+| Website \& SEO | Leadmagnet \& Referenzen | 40% | 5–10 qualifizierte Leads/Mo |
+| Energieberater | Erstfilter \& Vertrauensanker | 20% (Partnerpflege) | ≥ 60% Lead→Angebot |
+| Events / Messen | Vertrauensaufbau \& Netzwerk | 30% | ≥ 5 Leads je Event |
+| Hausverwaltungen | Multiplikatoren | — | 40% aller Projekte |
+| Architekten/Planer | Fachliche Türöffner | — | 10% Projektbeteiligung |
+| Paid / Social Ads | Skalierung ab Jahr 3 | 10% | CPA ≤ 200 € |
+
+#### **Lead-Flow in vier Schritten**
+
+- Sanierungsfahrplan (Energieberater)
+- Erstgespräch \& BIM-Scan
+- Festpreis-Angebot (offene Punkte markiert)
+- Vertragsabschluss inkl. CRM-Tracking
+
+
+#### **Events \& persönliche Ansprache**
+
+- Jährlich 16–32 Fach- und Netzwerkmessen deutschlandweit
+- Ziel: 5–10 neue Kontakte je Auftritt (80–320 warme Leads/Jahr)
+- Team-Rollen:
+    - Lennart Feldmann: überregionale Events/Bundesverband
+    - Timo \& Geschäftsführung: regionale Messen \& Infoveranstaltungen
+
+
+#### **Partnernetzwerk ohne Provisionen**
+
+- Energieberater, Hausverwaltungen und Architekten erhalten keine Kick-back-Provision.
+- Win-Win: Rahmenverträge, Prozesssicherheit und nachhaltige Auftragsbeziehungen.
+
+
+#### **CRM \& Prozessautomatisierung**
+
+- Die Arcavio-App integriert Lead-Management, Angebotsworkflow, BIM-Modelle und Follow-ups.
+- Automatische Erinnerungen und KI-gestütztes Lead-Scoring (ab Jahr 3) sorgen für effiziente Nachverfolgung.
+
+
+#### **Budget \& Ressourcen**
+
+- Vertriebsbudget: 5% des Jahresumsatzes
+    - Website/SEO: 40%
+    - Events/Messen: 30%
+    - Partnerpflege: 20%
+    - Tools/Software: 10%
+- Aufbauphase (Jahr 1–2): + SEO-Sonderbudget, BIM-Viewer für Präsentationen
+- Vertrieb anfangs durch Gründer, Ausbau eigener Vertrieb ab ca. 10 Projekten parallel
+
+
+#### **Regionale Expansion**
+
+| Phase | Zeitraum | Gebiet | Haupt-Kanäle |
+| :-- | :-- | :-- | :-- |
+| 1 | Jahr 1–3 | Rheinisches Revier | Website, Events, Berater |
+| 2 | Jahr 4–5 | NRW-weit | + LinkedIn, Fachportale |
+| 3 | Jahr >5 | Deutschlandweit | Partner-Roll-out |
+| 4 | Jahr >7 | EU | Lizenz-/Franchise-Modell |
+
+#### **KPIs zur Steuerung**
+
+| Kennzahl | Zielwert | Quelle |
+| :-- | :-- | :-- |
+| Website-Leads/Monat | 5–10 | Analytics |
+| Lead→Angebot | ≥ 60% | CRM |
+| Angebot→Auftrag | ≥ 30% | CRM |
+| Akquisekosten/Projekt | ≤ 5% Umsatz | Controlling |
+| Partner-Anteil an Projekten | ≥ 40% | CRM |
+
+**Fazit:**
+Durch qualifizierte Leadfilter, eine professionelle Webpräsenz, sorgfältig ausgewählte Events und ein partnerschaftliches Netzwerk sichern wir planbares Wachstum – skalierbar bis in neue Regionen und Märkte. Digitalisierung, transparente Prozesse und messbare KPIs machen den Vertrieb effizient und zukunftssicher.
 </details>
-<details><summary><h2>Kudnenbeziehung</h2></summary>
 
-- Persönliche Begleitung durch erfahrene Projektmanager über alle Phasen
-- Klare Ansprechpartner und strukturierte Kommunikationstools
-- After-Sales-Service durch optionale Wartungsverträge und regelmäßige Bestandskundenpflege
+<details>
+<summary>
+<h2>🤝 Kundenbeziehung</h2>
+</summary>
 
-**Fragen:**
+Ein persönlicher Ansprechpartner, ein zentrales Kundenportal und exklusive After-Sales-Services sorgen für eine dauerhaft vertrauensvolle Zusammenarbeit.
 
-- Wie könnte eine digitale Kundenplattform für Projektstatus/Baumanagement aussehen?
-- Ist eine Kundenbetreuung nach Fertigstellung (z.B. jährliche Checks) geplant?
+### Persönliche Begleitung
+
+- Fester Projektmanager begleitet von Erstberatung bis Nachbetreuung.
+- Klare Terminabsprachen, schnelle Reaktionszeiten.
+- Transparente To-Do-Listen für alle Beteiligten.
+
+
+### Digitales Kundenportal
+
+- Echtzeit-Dashboard: Meilensteine, Baufortschritt, offene Aufgaben.
+- Dokumentenarchiv: Verträge, Pläne, Protokolle jederzeit abrufbar.
+- DSGVO-konformer Chat \& Ticket-System für Fragen / Mängel.
+- Modular ausbaufähig: künftige Funktionen wie Monitoring, Report-Exports.
+
+![Infografik: Kundenbeziehungs-Zyklus](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a277ec34-51b0-43f3-8b36-e1ee6f22e109.png)
+
+Infografik: Kundenbeziehungs-Zyklus
+
+### After-Sales-Service (nur eigene Projekte)
+
+- Wartungsverträge: jährliche Inspektionen, präventive Instandhaltung.
+- Effizienz-Checks \& Optimierungsvorschläge über das Portal.
+- Proaktive Hinweise auf Updates, Förderprogramme, Nachrüstungen.
+
+
+### Kundenbindungs-Highlights
+
+| Baustein | Nutzen für den Kunden | Nutzen für uns |
+| :-- | :-- | :-- |
+| Persönlicher Projektmanager | Ein Ansprechpartner, klare Verantwortung | Höhere Kundenzufriedenheit |
+| Zentrales Portal | Alle Infos an einem Ort, 24/7-Zugriff | Prozessbeschleunigung |
+| Exklusive Wartung | Werterhalt \& Betriebssicherheit | Wiederkehrende Umsätze |
+| Modularer Ausbau | Mehr Funktionen nach Bedarf | Cross-/Upselling-Potenzial |
+
+Damit entsteht eine **durchgängige, modulare Kundenbeziehung**, die Qualität während der Bauphase sichert und langfristig Mehrwert liefert.
 
 </details>
 <details><summary><h2>Schlüsselresscouren</h2></summary> 
