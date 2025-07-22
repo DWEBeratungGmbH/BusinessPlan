@@ -185,19 +185,187 @@ Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Tra
 
 **So sorgen wir für nachhaltige, stressfreie und finanziell sichere Sanierungsergebnisse – heute und in Zukunft!**
 
+## 🏗️ Produkte \& Dienstleistungen
 
-## Produkte & Dienstleistungen
+Unser Leistungsangebot umfasst die komplette energetische Sanierung von Mehrfamilienhäusern und WEGs – von der ersten Projektidee bis zur laufenden Betriebsoptimierung. Dabei orientieren wir uns an bewährten HOAI-Standards und nutzen moderne BIM-Prozesse für maximale Transparenz und Qualität.
 
-Wir bieten ausschließlich individuell geplante Komplettsanierungen an, die sämtliche Gewerke und technische Komponenten umfassen:
+### 🎯 Unser Projektansatz
 
-- **Bauliche Maßnahmen:** Dach, Fassade, Fenster, Türen, Decken, Keller, Balkone, Bodenplatten
-- **Technik:** Elektrik, Internet, SmartHome, Photovoltaik, Wärmepumpe, Lüftungsanlage, Heiztechnik, Steuerung/Regelung
-- **Service:** Umfassende Gewährleistung, flexible Wartungsverträge, optional verlängerbare Garantien
+#### Projektvolumen und Zielgröße
 
-**Fragen:**
+- **Mindestvolumen:** 450.000 € (ab 3 Wohneinheiten)
+- **Optimaler Einstieg:** 500.000 € (ab 5 Wohneinheiten)
+- **Fokus:** Komplettlösungen für anspruchsvolle Sanierungsprojekte
+- **Keine Teilleistungen** in der Aufbauphase (Ausnahme: Projektentwicklung und Fachplanung als abgrenzbare Pakete)
 
-- Welche Service-Level-Agreements (z.B. Notfall-Hotline, Reaktionszeiten) möchten Sie zusätzlich anbieten?
-- Gibt es Mindest-umfänge pro Auftrag oder können auch Teilmaßnahmen beauftragt werden?
+
+#### Warum Komplettservice?
+
+Einzelgewerke bedeuten unkalkulierbare Risiken durch Schnittstellen und Verantwortungsdiffusion. Unser **All-in-One-Ansatz** garantiert:
+
+- Eine einheitliche Qualität über alle Gewerke
+- Klare Gesamtverantwortung ohne Haftungslücken
+- Optimierte Koordination und verkürzte Bauzeiten
+- Transparente Festpreise ohne versteckte Nachträge
+
+
+### 🔄 Projektablauf in vier Phasen
+
+#### Phase 1: Projektentwicklung (LPH 01-04)
+
+**Dauer:** 3-4 Monate | **Aufwand:** Mittel bis hoch
+
+**Kernleistungen:**
+
+- **Aufgabenklärung \& Ortsbesichtigung:** Kundenvorstellungen erfassen, Finanzrahmen definieren, Bestandsaufnahme vor Ort
+- **Variantenentwicklung:** Multiple Sanierungsoptionen mit BIM-3D-Visualisierung für WEG-Entscheidungen
+- **Kostenschätzung nach DIN 276:** Realistische Budgetplanung mit Fördermittelintegration
+- **Bauantragsstellung:** Komplette Abwicklung aller behördlichen Verfahren und Nachweise
+
+**Besonderheit für WEGs:** Moderierte Eigentümerversammlungen mit vorbereiteten Entscheidungsvorlagen und verständlichen Visualisierungen.
+
+#### Phase 2: Fachplanung (LPH 05-07)
+
+**Dauer:** 2-3 Monate | **Aufwand:** Hoch
+
+**Kernleistungen:**
+
+- **Ausführungsplanung:** Detaillierte Konstruktionspläne, Anschlussdetails und Materialfestlegungen
+- **Koordination aller Fachplaner:** Haustechnik, Statik, Brandschutz – alles aus einer Hand koordiniert
+- **Ausschreibung \& Vergabe:** Mengenermittlung, Leistungsverzeichnisse, Angebotsprüfung und Vergabeempfehlung
+
+**Qualitätssicherung:** Kollisionsprüfung im BIM-Modell verhindert teure Planungsfehler vor Baubeginn.
+
+#### Phase 3: Umsetzung (LPH 08)
+
+**Dauer:** 6-8 Monate | **Aufwand:** Hoch
+
+**Kernleistungen:**
+
+- **Bauüberwachung \& Qualitätskontrolle:** Lückenlose Dokumentation, Mängelmanagement, Bautagebuch
+- **Gewerkekoordination:** Professionelle Steuerung aller Handwerker und Terminpläne
+- **Kosten- \& Rechnungsprüfung:** Soll-Ist-Vergleich, Budgetüberwachung, Nachtragsbewertung
+- **Abnahmebegleitung:** Teil- und Endabnahmen mit strukturierten Mängelprotokollen
+
+**Unser Qualitätsstandard:** Ausschließlich Meisterbetriebe mit RAL-Zertifizierungen plus externe Qualitätskontrolle durch unabhängige Sachverständige.
+
+#### Phase 4: Betrieb \& Service (LPH 09-10)
+
+**Dauer:** Langfristige Betreuung | **Aufwand:** Mittel (digital optimiert)
+
+**Grundleistungen:**
+
+- **Mängelverfolgung:** Systematische Nachbesserungsüberwachung während Gewährleistungszeit
+- **Wartung \& Inspektion:** Präventive Wartungspläne, technische Prüfungen nach BetrSichV
+- **Monitoring \& Optimierung:** Kontinuierliche Verbrauchsauswertung mit Optimierungsvorschlägen
+- **Lebenszyklus-Management:** Langfristige Erneuerungsplanung und Investitionsberatung
+
+**Zusatzservices (kostenpflichtig):**
+
+- Digitale Nebenkostenabrechnungen für WEGs
+- 24h-Notdienst (perspektivisch)
+- Erweiterte Monitoring-Dashboards
+- Schadensbehebung und Reparatur-Koordination
+
+
+### 💻 Digitale Services \& Kundenportal
+
+#### Basis-Portal (kostenlos)
+
+- Zentrale Dokumentensammlung (Verträge, Pläne, Abnahmeprotokolle)
+- Live-Baufortschritt mit Foto-Dokumentation
+- Direkter Kommunikationskanal zum Projektteam
+- Gewährleistungs- und Wartungsübersicht
+
+
+#### Premium-Module (Abo-basiert)
+
+| Service | Nutzen | Preis-Modell |
+| :-- | :-- | :-- |
+| **Automatische Nebenkostenabrechnung** | WEG-konforme Kostensplitting | Monatlich/Jährlich |
+| **Erweiterte Verbrauchsanalytik** | Benchmarking, Optimierungsreports | Monatlich |
+| **Prädiktive Wartung** | Frühwarnsystem für Anlagenprobleme | Jährlich |
+| **Digitale Mieterverwaltung** | Kommunikation, Störungsmeldungen | Monatlich |
+
+### 🛠️ Technisches Leistungsspektrum
+
+#### Gebäudehülle
+
+- **Dämmung:** Dach, Fassade, Keller, Geschossdecken
+- **Fenster \& Türen:** Hocheffiziente Verglasung, Eingangsbereiche
+- **Balkone \& Loggien:** Energetische Ertüchtigung, Abdichtung
+
+
+#### Gebäudetechnik
+
+- **Heizung:** Wärmepumpen, Pellet, Gas-Brennwert (je nach Objekt optimal)
+- **Lüftung:** Kontrollierte Wohnraumlüftung mit Wärmerückgewinnung
+- **Photovoltaik:** Eigenverbrauchsoptimierte PV-Anlagen mit Speichern
+- **Smart Home:** Intelligente Steuerung, Monitoring, Fernwartung
+- **Elektrik:** Modernisierung nach aktuellen Standards, E-Ladeinfrastruktur
+
+
+#### Besondere Stärken
+
+- **BIM-Integration:** Vollständige 3D-Modellierung für Planung und Betrieb
+- **Energieberater-Kooperation:** Neutraler indicamus-Partner für unabhängige Beratung
+- **Fördermittel-Vollservice:** KfW, BAFA, Land NRW, kommunale Programme – alles aus einer Hand
+
+
+### 🎯 Service-Level \& Entwicklung
+
+#### Start-Phase (Jahr 1)
+
+- **Fokus:** Prozess- und Partneraufbau
+- **Service:** Persönliche Betreuung, Basis-Portal
+- **Notdienst:** Kooperation mit externem Partner
+
+
+#### Ausbau-Phase (Jahr 2-3)
+
+- **Eigenes Serviceteam** für Wartung und Optimierung
+- **Digitale Fernwartung** durch Sensorik und IoT-Integration
+- **Prädikatssystem:** Frühwarnung vor Anlagenstörungen
+
+
+#### Vision (Jahr 5+)
+
+- **24h-Eigenservice** für alle Kunden
+- **Proaktive Wartung** durch KI-gestützte Zustandsanalytik
+- **Komplette Gebäudedigitalisierung** als Standard
+
+
+### 📈 Zusätzliche Erlösquellen
+
+| Bereich | Umsatzpotenzial | Zeitrahmen |
+| :-- | :-- | :-- |
+| **Wartungsverträge** | 5-10% des Bauvolumens/Jahr | Ab Jahr 2 |
+| **Digitale Services** | 50-200€/Einheit/Monat | Ab Jahr 1 |
+| **Finanzierungs-Provision** | 0,5-1% Vermittlungsprovision | Ab Jahr 1 |
+| **Beratungsleistungen** | 150-300€/Beratungstag | Ab Jahr 1 |
+| **Eigene Projektentwicklung** | Projektabhängig | Ab Jahr 5 |
+
+### 🏆 Qualitätsversprechen
+
+**Was wir garantieren:**
+
+- ✅ **Bauqualität:** Meisterbetriebe mit RAL-Zertifizierung
+- ✅ **Prozessqualität:** HOAI-konforme Projektabwicklung
+- ✅ **Kostensicherheit:** Festpreise pro Leistungseinheit
+- ✅ **Terminreue:** 12 Monate von Auftrag bis Abnahme (ohne Baugenehmigung)
+- ✅ **Digitale Transparenz:** Vollständige Projektdokumentation
+
+**Was wir überwachen (aber nicht garantieren):**
+
+- **Energieverbräuche:** Monitoring mit Optimierungsvorschlägen
+- **Betriebskosten:** Analyse und Verbesserungsmöglichkeiten
+- **Nutzerverhalten:** Schulung und Beratung für optimalen Gebäudebetrieb
+
+Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehensweise schaffen wir für unsere Kunden maximale Planungssicherheit – von der ersten Idee bis zum langjährigen, effizienten Gebäudebetrieb.
+
+<div style="text-align: center">⁂</div>
+
+[^1]: Projektphasen_Leistungsphasen.xlsx
 
 
 ## Erlösmodell / Revenue Streams
