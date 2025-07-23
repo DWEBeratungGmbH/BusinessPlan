@@ -879,7 +879,7 @@ Ein persönlicher Ansprechpartner, ein zentrales Kundenportal und exklusive Afte
 * DSGVO-konformer Chat \& Ticket-System für Fragen / Mängel.
 * Modular ausbaufähig: künftige Funktionen wie Monitoring, Report-Exports.
 
-image::https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a277ec34-51b0-43f3-8b36-e1ee6f22e109.png[Infografik: Kundenbeziehungs-Zyklus]
+image::https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a277ec34-51b0-43f3-8b36-e1ee6f22e109.png[Infografik: Kundenbeziehungs-Zyklus[width=75%]]
 
 Infografik: Kundenbeziehungs-Zyklus
 
@@ -1236,17 +1236,75 @@ Diese fünf Schlüsselaktivitäten – verbindliche Materialvorgaben, optimierte
 
 So erzielen wir für unsere Kunden nachhaltige Mehrwerte und sichern den Erfolg jedes einzelnen Sanierungsprojekts.
 
-== Schlüsselpartner
+== 🤝 Schlüsselpartner
 
-* Feste Handwerksbetriebe/Planungsbüros im Rahmen von Partnerschaften
-* Lieferanten nach Gewerken, direkte Verträge oder Fachgroßhandel je nach Produktgruppe
-* Unabhängige Sachverständige zur externen Überwachung
+Unsere Schlüsselpartner erweitern gezielt unser internes Know-​how, sichern Qualität und ermöglichen das skalierbare Wachstum unserer Sanierungs­projekte. Die folgenden Kategorien, Beispiele und Begründungen zeigen, weshalb jede Partnergruppe unverzichtbar ist.
 
-*Fragen:*
+=== 👷‍♂️ Ingenieure & Sachverständige  
+Fachplaner und Prüfinstanzen garantieren genehmigungsfähige, normgerechte Planung.  
 
-* Sind Kooperationen mit Finanzdienstleistern oder Förderberatern angedacht?
-* Welche Kriterien gelten für die Auswahl und Bindung neuer Partner?
+[cols="3*", options="header"]
+|===
+|Name | Qualifikation | Nutzen fürs Projekt
 
+|Kevin Faymonville  
+(link oben)
+|Zimmerer­meister, Holzbau­ingenieur (FH Aachen), *bauvorlage­berechtigt*
+|Erstellt Holzbau-Statiken und reicht Bauanträge ein – beschleunigt Genehmigungen[2][17]
+
+|Energie-Effizienz-Experten (EEE-Liste)
+|Bundesweit gelistete Fachkräfte für Energie­beratung und Förder­anträge
+|Ermöglichen KfW- und BAFA-Förderungen durch qualifizierte Planung und Baubegleitung[5][10]
+
+|Brandschutz- und Prüfstatiker (externe)
+|Öffentlich bestellt / staatlich anerkannt
+|Sichern behördliche Freigaben und minimieren Haftungsrisiken
+|===
+
+=== 🔍 Externe Qualitätskontrolle  
+*Indicamus* führt unabhängige Fremd­überwachung durch. Regelmäßige Baustellen-Audits erhöhen Transparenz und reduzieren Nachbesserungen – ein starkes Vertrauens­argument für WEGs und Banken.
+
+=== 🛠️ Handwerks- & Baupartner  
+Bewährte Meisterbetriebe sorgen für fachgerechte Ausführung aller Gewerke.
+
+[cols="3*", options="header"]
+|===
+|Betrieb | Gewerke | Stärken
+
+|Eifel-Home Möhrer GmbH  
+(link oben)
+|Zimmerei, Dach, Holz­hausbau
+|Nachhaltige Holzrahmen­bauweise, diffusions­offene Konstruktionen[13]
+
+|S2 Bauen & Planen GmbH
+|Bauleitung, Generalbau, Statik
+|Bauingenieur-Duo; kombiniert Bau­leitung mit Tragwerks­planung
+
+|WPA Architekten  
+(link oben)
+|Architektur, Bauleitung, HOAI-LP 1-9
+|Flexibles 2er-Team für Entwurf, Ausführung, Sanierung[4][19]
+|===
+
+Rahmenverträge regeln Stundensätze, Kapazitäten und QS-Pflichten. Exklusivität ist vorerst nicht vorgesehen – so bleiben wir flexibel und mindern Engpassrisiken.
+
+=== 💼 Finanzierungs- & Versicherungspartner  
+- **Marco Scheen**, selbstständiger Baufinanzierungs­berater (Schwäbisch Hall): unterstützt Eigentümer bei Kredit- und Fördermittel­struktur[6][11]  
+- Regionale Banken & Versicherer: sichern Liquidität und decken Bauleistungs- sowie Gewährleistungs­risiken ab.
+
+=== 📣 Vertriebs- & Netzwerkpartner  
+Immobilienverwalter, WEG-Manager und Marketing­agenturen verbreiten unser Angebot. Offene Kooperationen ohne Provisionsbindung erhöhen Reichweite und senken Akquise­kosten.
+
+=== ⚖️ Vertrags- und Bewertungs­prinzipien  
+*Qualität | Kapazität | Werte* – diese drei Soft- und Hardfacts strukturieren jeden Rahmenvertrag. KPIs wie Termintreue, Mängelquote und Preis­stabilität fließen in ein Partner-Scorecard-System ein. Schulungen auf DWE/Arcavio-Standards (BIM-Prozesse, VOB-Konformität) sichern kontinuierliche Kompetenz.
+
+=== 🚀 Roadmap  
+1. Partner-Register mit Kontakten, Gewerken, Zertifikaten  
+2. Muster-Rahmenvertrag (Stundensätze, QS-Klauseln, Schulungs­pflicht)  
+3. Onboarding-Workshops & digitales Partner­handbuch  
+4. Halbjährliche KPI-Reviews und Qualitäts-Audits  
+
+Dieses klar gegliederte Partner-Ökosystem verbindet Engineering-Tiefe, handwerkliche Exzellenz und solide Finanzierung – die Basis für verlässliche, skalierbare und förderfähige Sanierungsprojekte.
 == Kostenstruktur
 
 * Fixkosten: Personal, IT, Verwaltung, Marketing
