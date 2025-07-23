@@ -82,7 +82,7 @@ Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier
 * 🏢 Gewerbeimmobilienbesitzer -- ESG-Druck wächst; längere Akquisezyklen.
 * 🏛️ Öffentliche Auftraggeber -- große Projekte, aber langwierige Vergaben.
 
-=== 💵 Kaufkraft \& Finanzierungsbereitschaft
+=== 💵 Kaufkraft & Finanzierungsbereitschaft
 
 * Typische WEG-Sanierung: €50,000 -- €150,000 pro Einheit.
 * 80% + der Maßnahmen werden kreditfinanziert; KfW-Programme (EH70/EH100) dominierend[{caret}5].
@@ -111,27 +111,27 @@ Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier
 === 📈 Umsatzszenarien 2026-2030 (Kerngebiet)
 
 |===
-| Marktanteil | Projekte/Jahr | Ø Umsatz/Projekt | Jahresumsatz
+| Marktanteil | neue Projekte/Jahr | Ø Umsatz/Projekt | Jahresumsatz
 
 | 0.5%
-| 5
+| +5
 | €350,000
-| €1.8 Mio.
+| €1.75 Mio.
 
 | 1.0%
-| 10
-| €350,000
-| €3.5 Mio.
+| +10
+| €450,000
+| €4.5 Mio.
 
 | 2.0%
-| 20
-| €350,000
-| €7.0 Mio.
+| +20
+| €500,000
+| €10.0 Mio.
 
 | 5.0%
-| 50
-| €350,000
-| €17.6 Mio.
+| +35
+| €550,000
+| €19.25 Mio.
 |===
 
 === 💡 Fazit
@@ -152,7 +152,7 @@ Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Tra
 * *Unabhängige Qualitätskontrolle:* Sämtliche Leistungen werden durch interne QS-Prozesse sowie -- nach Bedarf -- durch externe, unabhängige Sachverständige überwacht.
 * *Dokumentierte Qualität:* Alle Maßnahmen, Prüfungen und Nachweise sind jederzeit im Kundenportal abrufbar.
 
-=== 🔎 Monitoring \& Transparenz im Betrieb
+=== 🔎 Monitoring & Transparenz im Betrieb
 
 *Mehr als Bauqualität -- auch nach der Sanierung!*
 
@@ -180,7 +180,7 @@ Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Tra
 | Direkter Kontaktkanal, Ticketingsystem für offene Fragen
 |===
 
-=== 🤝 Serviceversprechen \& Entwicklung
+=== 🤝 Serviceversprechen & Entwicklung
 
 * *Service ab dem ersten Tag:* Persönliche Ansprechpartner begleiten Sie vom Erstgespräch bis zur Abnahme.
 * *Perspektive 24h-Notdienst:* Zum Marktstart kooperieren wir mit ausgewählten Externen für Notdienste. Eigene 24h-Strukturen bauen wir als langfristiges Ziel auf.
@@ -305,7 +305,7 @@ Einzelgewerke bedeuten unkalkulierbare Risiken durch Schnittstellen und Verantwo
 * Erweiterte Monitoring-Dashboards
 * Schadensbehebung und Reparatur-Koordination
 
-=== 💻 Digitale Services \& Kundenportal
+=== 💻 Digitale Services & Kundenportal
 
 ==== Basis-Portal (kostenlos)
 
@@ -358,7 +358,7 @@ Einzelgewerke bedeuten unkalkulierbare Risiken durch Schnittstellen und Verantwo
 * *Energieberater-Kooperation:* Neutraler indicamus-Partner für unabhängige Beratung
 * *Fördermittel-Vollservice:* KfW, BAFA, Land NRW, kommunale Programme -- alles aus einer Hand
 
-=== 🎯 Service-Level \& Entwicklung
+=== 🎯 Service-Level & Entwicklung
 
 ==== Start-Phase (Jahr 1)
 
@@ -444,7 +444,7 @@ Unser Erlösmodell basiert auf einer transparenten, phasengerechten Abrechnung k
 | 5-10%
 |===
 
-=== 🏗️ Hauptgeschäft: Komplettsanierungen
+=== 🏗️ Hauptgeschäft: Sanierungen
 
 ==== Projektvolumen und Zielkunden
 
@@ -765,7 +765,7 @@ Ein fokussierter Kanal-Mix liefert messbare Leads bei minimalen Streuverlusten. 
 |CPA ≤ 200 €
 |===
 
-image::budget.png["Diagramm Marketing-Budget"]
+image::../assets/tables/images/marketing_budget.png[]
 
 === 📋 Lead-Flow
 
@@ -1077,7 +1077,7 @@ ____
 * *Gewährleistungsversicherung:* Langfristige Kundenabsicherung über Gewährleistungsfristen
 * *Kreditlinien:* Flexibilität für größere Projekte und Investitionen
 
-=== 📊 Ressourceneffizienz \& Skalierbarkeit
+=== 📊 Ressourceneffizienz & Skalierbarkeit
 
 ==== *Optimierte Ressourcennutzung*
 
@@ -1139,7 +1139,7 @@ schaffen wir die Basis für unsere Marktposition als führender Anbieter für di
 
 Unsere Schlüsselaktivitäten bilden das operationelle Rückgrat für eine reibungslose, transparente und qualitativ hochwertige energetische Sanierung – von der ersten Bestandsaufnahme bis zum langfristigen Betrieb. Jede Aktivität ist so gestaltet, dass auch Leser ohne Bauhintergrund den Ablauf und den Nutzen unmittelbar verstehen können.
 
-=== 🚀 1. Lieferantenzulassung & Standardmaterialien  
+=== 🚀 Lieferantenzulassung & Standardmaterialien  
 **Ziel:** Klare Vorgaben minimieren Planungsunsicherheiten, verhindern Nachträge und sichern gleichbleibende Qualität.
 
 *Zentrale Produktbibliothek*  
@@ -1156,7 +1156,7 @@ Unsere Schlüsselaktivitäten bilden das operationelle Rückgrat für eine reibu
 
 image::lieferantenzulassung.png[Lieferantenzulassung & Standardmaterialien, 75%]
 
-=== 📦 2. Beschaffungsmanagement & Logistik  
+=== 📦 Beschaffungsmanagement & Logistik  
 **Ziel:** Nahtlose Materialversorgung minimiert Baustellenunterbrechungen und spart Kosten.
 
 *Phasenweiser Aufbau*  
@@ -1174,7 +1174,7 @@ image::lieferantenzulassung.png[Lieferantenzulassung & Standardmaterialien, 75%]
 
 image::logistik.png[Beschaffungsmanagement & Logistik, 75%]
 
-=== 🔍 3. Baustellen-Qualitätssicherung  
+=== 🔍 Baustellen-Qualitätssicherung  
 **Ziel:** Systematische Prüfungen sichern handwerkliche Präzision und reduzieren teure Nacharbeiten.
 
 *Mehrstufige Prüfungen*  
@@ -1191,7 +1191,7 @@ image::logistik.png[Beschaffungsmanagement & Logistik, 75%]
 
 image::qs_checklist.png[Baustellen-QS mit digitalen Checklisten, 75%]
 
-=== 📱 4. Dokumentations- & Kommunikationsprozess  
+=== 📱 Dokumentations- & Kommunikationsprozess  
 **Ziel:** Volle Transparenz durch lückenlose, digitale Begleitung aller Projektschritte.
 
 *Portal-Dashboard*  
@@ -1210,7 +1210,7 @@ image::qs_checklist.png[Baustellen-QS mit digitalen Checklisten, 75%]
 
 image::portal_dashboard.png[Digitales Kundenportal mit Dashboard, 75%]
 
-=== 🏗️ 5. BIM-Integration  
+=== 🏗️ BIM-Integration  
 **Ziel:** 3-D-Modellierung als zentraler Motor für Effizienz, Planungs­sicherheit und konsistente Daten.
 
 *Automatisierte Kollisionsprüfung*  
@@ -1247,9 +1247,7 @@ Fachplaner und Prüfinstanzen garantieren genehmigungsfähige, normgerechte Plan
 |===
 |Name | Qualifikation | Nutzen fürs Projekt
 
-|Kevin Faymonville  
-(link oben)
-|Zimmerer­meister, Holzbau­ingenieur (FH Aachen), *bauvorlage­berechtigt*
+|Kevin Faymonville |Zimmerer­meister, Holzbau­ingenieur (FH Aachen), *bauvorlage­berechtigt*
 |Erstellt Holzbau-Statiken und reicht Bauanträge ein – beschleunigt Genehmigungen[2][17]
 
 |Energie-Effizienz-Experten (EEE-Liste)
@@ -1271,25 +1269,21 @@ Bewährte Meisterbetriebe sorgen für fachgerechte Ausführung aller Gewerke.
 |===
 |Betrieb | Gewerke | Stärken
 
-|Eifel-Home Möhrer GmbH  
-(link oben)
-|Zimmerei, Dach, Holz­hausbau
-|Nachhaltige Holzrahmen­bauweise, diffusions­offene Konstruktionen[13]
+|Eifel-Home Möhrer GmbH  |Zimmerei, Dach, Holz­hausbau
+|Nachhaltige Holzrahmen­bauweise, diffusions­offene Konstruktionen
 
 |S2 Bauen & Planen GmbH
 |Bauleitung, Generalbau, Statik
 |Bauingenieur-Duo; kombiniert Bau­leitung mit Tragwerks­planung
 
-|WPA Architekten  
-(link oben)
-|Architektur, Bauleitung, HOAI-LP 1-9
-|Flexibles 2er-Team für Entwurf, Ausführung, Sanierung[4][19]
+|WPA Architekten |Architektur, Bauleitung, HOAI-LP 1-9
+|Flexibles 2er-Team für Entwurf, Ausführung, Sanierung
 |===
 
 Rahmenverträge regeln Stundensätze, Kapazitäten und QS-Pflichten. Exklusivität ist vorerst nicht vorgesehen – so bleiben wir flexibel und mindern Engpassrisiken.
 
 === 💼 Finanzierungs- & Versicherungspartner  
-- **Marco Scheen**, selbstständiger Baufinanzierungs­berater (Schwäbisch Hall): unterstützt Eigentümer bei Kredit- und Fördermittel­struktur[6][11]  
+- **Marco Scheen**, selbstständiger Baufinanzierungs­berater (Schwäbisch Hall): unterstützt Eigentümer bei Kredit- und Fördermittel­struktur
 - Regionale Banken & Versicherer: sichern Liquidität und decken Bauleistungs- sowie Gewährleistungs­risiken ab.
 
 === 📣 Vertriebs- & Netzwerkpartner  
@@ -1305,37 +1299,255 @@ Immobilienverwalter, WEG-Manager und Marketing­agenturen verbreiten unser Angeb
 4. Halbjährliche KPI-Reviews und Qualitäts-Audits  
 
 Dieses klar gegliederte Partner-Ökosystem verbindet Engineering-Tiefe, handwerkliche Exzellenz und solide Finanzierung – die Basis für verlässliche, skalierbare und förderfähige Sanierungsprojekte.
-== Kostenstruktur
 
-* Fixkosten: Personal, IT, Verwaltung, Marketing
-* Variable Kosten: Projektbezogene Material- und Vergabekosten, Subunternehmer
-* Break-even: hängt von Projektdichte, durchschnittlichem Projektvolumen und Skaleneffekten ab
+== 💸 Kostenstruktur
 
-*Fragen:*
+Um die Kostenblöcke transparent zu veranschaulichen, wurde eine **Mini-Datenbank** mit drei repräsentativen Sanierungs­projekten angelegt. Jede Zeile zeigt Volumen, Phasen­termine, Zahlungsziele, Ressourcen­einsatz und die Zuordnung zu den Kosten­kategorien. Die Projekte bauen aufeinander auf und spiegeln den geplanten Ramp-up der nächsten drei Jahre wider.
 
-* Wie wird das Marketingbudget aufgeteilt (digital vs. klassisch)?
-* Wie viele Projekte pro Jahr sind für die Rentabilität eingeplant?
+=== 📑 Projektstruktur
 
-== Skalierung & Innovation
+[cols=">2,^1,^1,^2,^1,^1,^1,^1,^1",options="header"]
+|===
+|Projekt |Volumen (€) |WE* |Phasen* |Zahlungs­ziele |Internes Personal |Externe Partner |Material / Geräte |Sonstiges
+|P-Aachen 1 | 700 000 |7 |PE 04-26 ▶ FP 08-26 ▶ UM 03-27 |10/40/40/10 |0,8 FTE |EEE, Statik, QS |45 % |ESG 0,5 %  
+|P-Düren 2 | 850 000 |9 |PE 09-26 ▶ FP 01-27 ▶ UM 08-27 |10/30/45/15 |1,1 FTE |EEE, Statik, Brandschutz |47 % |Recht 1 %  
+|P-Köln 3 |1 050 000 |12 |PE 02-27 ▶ FP 06-27 ▶ UM 03-28 |10/30/40/20 |1,4 FTE |EEE, Statik, ESG, Claim-Mngt |48 % |Recht 1 %
+|===
+*WE = Wohneinheiten *Phasen: PE = Projekt­entwicklung, FP = Fachplanung, UM = Umsetzung
 
-* Schrittweise Ausweitung vom Raum Aachen ins gesamte Rheinische Revier, perspektivisch NRW
-* Erweiterung des Leistungsangebots um neue Technologien (Smart Home, E-Mobilität, Batterie)
-* Technische Innovationen insbesondere im digitalen Prozessmanagement und Kundenservice
+=== 📊 Kostenblöcke
 
-*Fragen:*
+[%header,cols="2,^1,^1,^1,^1,^1"]
+|===
+|Kostenblock |P-Aachen 1 |P-Düren 2 |P-Köln 3 |Ø-Quote |Zuordnung
+|Fixkosten (Anteil) |25 % |22 % |20 % |≈ 22 % |Verwaltung, Büro, Marketing  
+|Projektbezogen – intern |8 % |8 % |7 % |≈ 8 % |PL/BL, BIM-Tech  
+|Projektbezogen – Material |45 % |47 % |48 % |≈ 47 % |Standard­komponenten  
+|Projektbezogen – Geräte |3 % |3 % |4 % |≈ 3 % |Gerüst, Kran  
+|Projektbezogen – externe Partner |16 % |17 % |18 % |≈ 17 % |Handwerk + Fachplaner  
+|Projektbezogen – sonstig |3 % |3 % |3 % |≈ 3 % |Reise, Entsorgung  
+|Software & IT |2 % |2 % |3 % |≈ 2 % |Lizenzen, Cloud  
+|Risiko­puffer |1 % |1 % |1 % |1 % |Material, Zeit, Claim  
+|===
 
-* Liegen bereits erste Überlegungen für F\&E-Vorhaben (z.B. digitale Tools, Produktinnovationen) vor?
-* Gibt es strategische Ziele für Umsatz- oder Projektzahlen in den nächsten 5 Jahren?
+• **ESG-Beratungskosten** (DGNB / QNG) erscheinen bei Bedarf im Block „externe Partner“ – typischerweise 0,5–1 % des Projekt­volumens.  
+• **Rechts- & Claim-Management** wird als „Sonstiges“ erfasst (1 % bei Großprojekten).  
+• Feste **Preis- und Zahlungs­ziele** (10 % Anzahlung ➜ 30-40 % Planungs­abschlag ➜ 40-45 % Bau­fortschritts­abschläge ➜ 10-20 % Rest bei End­abnahme) sichern Liquidität und Kunden­transparenz.
 
-== Nachhaltigkeit & ESG
+=== 📈 Cash-Flow Roadmap 2026-2028
+image::cashflow_timeline.png[Projekt-Cash-Flow 2026-2028,75%]
 
-Unser Geschäftsmodell leistet einen substanziellen Beitrag zur Energiewende und erfüllt aktuelle ESG-Anforderungen:
+*Die Grafik zeigt:*  
+1. hohe Planungs­ausgaben 2026 (front­lastiger BIM-Ansatz),  
+2. stärkeren Material- und Partner­cash-out während der Umsetzungs­phasen 2027-28,  
+3. fallende Fixkosten­quote dank wachsender Projektzahl.
 
-* Deutlich reduzierte CO₂-Emissionen pro saniertem Gebäude
-* Zielgruppengerechte Information zu Fördermöglichkeiten und nachhaltigen Standards
-* Anstreben relevanter Zertifikate (z.B. DGNB, BREEAM)
+=== 🏢 Fixkosten­block „Zweiter Standort“
+Der geplante Regional­hub (Jahr 4) wird als **Fixkosten** abgebildet:
 
-*Fragen:*
+[%header]
+|===
+|Fixkostenart |Jährlich ab 2029 |Bemerkung
+|Miete + NK |40 000 € |250 m² Büro / Lager
+|2 FTE Basis­team |150 000 € |Kunden­betreuung, QS
+|IT & Infra |25 000 € |Netzwerk, Mobiliar
+|Einmal­aufwand Setup |60 000 € |Umbau, Hardware
+|**Gesamt** |**275 000 €** |≈ 1,2 % des geplanten Umsatzes 2029
+|===
 
-* Wie sollen CO₂-Einsparungen projektspezifisch dokumentiert werden?
-* Welche Zertifizierungen sind konkret für die Projekte vorgesehen?
+=== 🔄 Partner-Einsatz je Phase
+
+[cols=">,^1,^1,^1,^1",options="header"]
+|===
+|Partnergruppe |PE |FP |UM |Betrieb
+|EEE-Berater |× |× |(Audit) |✓ (Monitoring)
+|Statiker / Prüfstatiker |× |× |– |–
+|Brandschutz |– |× |– |–
+|Handwerks­betriebe |– |– |× |✓ (Wartung)
+|Indicamus (QS) |– |– |× |–
+|Finanzierungs­berater |✓ |✓ |– |–
+|Versicherer |– |– |✓ |✓
+|Marketing / HR |✓ |– |– |–
+|===
+
+Legende × = Haupteinsatz ✓ = optional / gering
+
+=== 💡 Fazit  
+
+Die Beispiel-Datenbank verdeutlicht:  
+
+• **Frontlastige Planungs- und IT-Investitionen** steigern Effizienz und senken Bau­kosten.  
+• **Variable Projektblöcke** (Material, externe Partner) dominieren die Ausgaben, lassen sich aber durch Rahmen­verträge steuern.  
+• Ab **Jahr 4** steigen Fixkosten moderat (neuer Standort), während der Personal- und IT-Anteil pro Umsatz sinkt.  
+• ESG- und Claim-Services sind **klar verortet** und skalieren proportional zum Projekt­volumen.  
+
+Damit liegt eine belastbare Kostengerüst-Matrix vor, die Investoren und Banken zeigt, wann welche Ausgaben fällig werden und wie Ressourcen gezielt eingesetzt werden.
+
+== 🌱 Skalierung & Innovation 🚀
+
+=== 🎯 Zielsetzung
+Der Abschnitt **„Skalierung & Innovation“** beschreibt, wie DWE systematisch von 5 Projekten und € 1,8 Mio. Jahresumsatz im Jahr 2026 auf 50 Projekte und € 18,6 Mio. Jahresumsatz im Jahr 2030 wächst. Dabei wird eine robuste digitale Plattform aufgebaut, die BIM-Daten, Kundenportal und modulare Services integriert.
+
+=== 📈 Wachstumsfahrplan und Meilensteine
+
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| Jahr | Projekte/Jahr | Marktanteil im Kerngebiet | Jahresumsatz | Digital-/Wartungs-Umsatz | F&E-Anteil
+| 2026 | 5  | 0,5% | € 1,8 Mio. | € 0,05 Mio. | 30–40%
+| 2027 | 10 | 1,0% | € 3,65 Mio. | € 0,15 Mio. | 30–40%
+| 2028 | 20 | 2,0% | € 7,4 Mio. | € 0,40 Mio. | 20–25%
+| 2029 | 35 | 3,5% | ca. € 13,0 Mio. | ca. € 0,85 Mio. | 20–25%
+| 2030 | 50 | 5,0% | € 18,6 Mio. | € 1,10 Mio. | 10–15%
+|===
+
+image::../assets/tables/images/diagram_umsatzwachstum.png[]
+
+=== 🌍 Geografische & Angebots-Expansion
+* **2026–2027:** Fokus auf das Rheinische Revier 🏭  
+* **2028–2029:** Rollierende Expansion in ganz NRW, zweiter Standort 🚉  
+* **Ab 2030:** Bundesweite Verfügbarkeit für standardisierte WEG-Sanierungen 🇩🇪  
+
+**Leistungsdiversifikation:**  
+- Smart-Home & IoT-Sensorik ab 2027 🏡  
+- E-Ladeinfrastruktur & Photovoltaikspeicher ab 2027 ☀️🔌  
+- Plattform-Module (Predictive Maintenance, Energie-Trading) im Abo ab 2028 🛠️💡  
+
+*(Grafik-Tipp: Karte von Deutschland mit Expansionspfad)*
+
+=== 💡 Innovationsstrategie & F&E-Go­vernance
+==== 3.1 F&E-Intensität & Staffelung
+* **Jahr 1–2:** 30–40% der Ressourcen in F&E 💻🚧  
+**Fokus:** MVP-Plattform, Prozessautomatisierung, Prototypen für iSFP 📊🛠️  
+* **Jahr 3–5:** 20–25% für Ausbau digitaler Services & Effizienzsteigerung 🔄  
+* **Ab Jahr 5:** 10–15% für kontinuierliche Verbesserung & Innovationsradar 🎯🧠  
+
+*(Grafik-Tipp: Kreisdiagramm mit Ressourcenverteilung)*
+
+==== Governance
+- Einrichtung eines **F&E-Steering-Committees** ⚙️  
+- KPI-Monitoring: F&E-ROI, Sprint Velocity, Time-to-Market 📈⌛  
+- Agile Entwicklung mit Sprint-Reviews 🚀📝
+
+*(Grafik-Tipp: Flussdiagramm oder Agile-Board)*
+
+=== 🔧 Prozess- & Systemarchitektur
+==== BIM-basiertes Frontloading
+* IFC-zentrische Datenplattform für Planung, Bau & Betrieb 🏗️💾  
+* Automatisierte Kollisionsprüfung & Mengenauszüge 🧩📝  
+* Verantwortlich: **Silay (BIM-Managerin)**
+
+==== Digitales CRM / Kundenportal
+* Lead-Scoring, Angebotsgenerator, Ticketing 💼🎟️  
+* Nutzerfunktion: Login, Dashboard, Datei-Upload & Download 🔐📂  
+* Verantwortlich: **Timo & Sebastian** (Plattform-Entwicklung)**
+
+==== Modulare Abo-Services
+* Verbrauchsanalytik, Nebenkosten, prädiktive Wartung & ESG-Reporting 💧📈
+
+image::..\assets\tables\images\projekteJahr.png[Projekte pro Jahr 2026-2030]
+
+=== 🚩 Offene Punkte & Voraussetzungen
+1. Zeitplan für Plattform-Features (IFC-Viewer, Dashboard, API) 📅  
+2. Detaillierte Ressourcen- und Rollenplanung 🧩  
+3. Workshop zur Finalisierung des Go-Live bis 01.01.26 👥  
+4. Risikomanagement: Cyber-Security, regulatorische Änderungen, Fördermittel 🔒⚠️  
+5. Integration der aktuellen Kernmannschaft (Sara, Nicole, Silay, Lars, Timo, Sebastian, Christina, Sophie) in die F&E-Struktur 🔗
+
+*(Grafik-Tipp: Roadmap-Visualisierung mit Meilensteinen)*
+
+== 🌿 Nachhaltigkeit & ESG 📊
+
+Im Kapitel Nachhaltigkeit & ESG des Businessplans wird dargestellt, wie DWE durch systematische CO₂-Reduktion, Energie- und Materialeffizienz sowie eine robuste ESG-Governance regulatorische Anforderungen erfüllt und sich als Vorreiter für nachhaltige Sanierungsprojekte positioniert.
+
+=== 🎯 Zielsetzung
+DWE strebt an, in jedem Sanierungsprojekt
+
+messbar CO₂-Emissionen zu reduzieren,
+
+Energie- und Materialverbräuche transparent zu machen,
+
+alle relevanten Förder- und Zertifizierungsanforderungen zu erfüllen,
+und so ökologischen, sozialen und Governance-Mehrwert zu schaffen.
+
+=== Effizienzhaus-Standards als Fördermaßstab
+Für den Wohnbau-Sanierungsbereich gilt:
+[cols="1,1,1",options="header"]
+|===
+| Standard | Zielwert | Anwendung
+| KfW 40 EE | ≤ 43 kWh/m²a | Primärer Fördermaßstab, Idealziel
+| KfW 55 | ≤ 60 kWh/m²a | Mindestziel bei Restriktionen
+| QNG (Standard) | Fördervoraussetzung | KfW/BAFA-Programme
+| DGNB Gold | Mittelfristiges Ziel | WEG-Komplettsanierung
+| BREEAM Excellent| Langfristiges Ziel | Öffentliche Großprojekte
+|===
+
+=== CO₂-Bilanzierung pro Gebäude
+DWE wendet eine Life-Cycle-Assessment (LCA) gemäß EN 15978/DIN EN 16258 an – bezogen auf ein saniertes Gebäude:
+[cols="1,1",options="header"]
+|===
+| Aspekt | Vorgehen
+| Funktionseinheit | 1 saniertes Gebäude
+| Systemgrenzen | A1–A3 (Material & Transport), B2–B4 (Wartung), B6 (Betriebsenergie), C1–C4 (Rückbau)
+| Datenquelle | IFC-Modell + ÖKOBAUDAT-Emissionstabellen
+| Betrachtungszeitraum | 50 Jahre Lebenszykluserweiterung
+|===
+
+Beim Upload des IFC-Modells werden Baustoffe und Mengen automatisch mit Emissionsfaktoren verknüpft und in der PostgreSQL-Datenbank gespeichert.
+
+=== Live-Monitoring der Betriebsphase
+Smart-Meter liefern viertelstündlich Daten zu
+
+PV-Ertrag
+
+Wärmepumpen-Zählerstände
+
+Gesamtstromverbrauch
+
+Das Dashboard zeigt Ist-Verbrauch vs. Planwert (Effizienzhaus-Ziel) und markiert Abweichungen automatisch.
+
+=== Material- und Ressourcenkreislauf
+
+Ziel ≥ 80% Recyclingquote beim Rückbau
+
+Verwendung von FSC-zertifiziertem Holz und Dämmstoffen mit EPD
+
+Dokumentation aller Recycling- und Entsorgungsprozesse im Kundenportal
+
+=== ESG-Governance & Rollen
+[cols="1,1",options="header"]
+|===
+| Rolle | Verantwortlichkeit
+| ESG-Officer (Nicole) | Gesamtkoordination, Reporting, Compliance
+| Projekt-ESG-Beauftragte (Sara) | On-Site LCA-Daten, QS vor Ort
+| F&E-Team (Silay, Timo) | Dashboard-Entwicklung, API-Anbindung
+| Steering-Committee (Geschäftsführung) | KPI-Freigabe, Risikomanagement
+| Externe Auditoren | Zertifizierungs-Validierung
+|===
+
+=== Monitoring, Reporting & Risikomanagement
+
+Datenpipeline: IFC-Modelle → ETL → PostgreSQL
+
+Dashboard: Live-Widgets & quartalsweise PDF-Reports
+
+Risiken & Maßnahmen:
+
+Regulatorische Änderungen (CSRD, EU-Taxonomie) → automatisierte Compliance-Alerts
+
+Datenqualität (Sensor-Ausfälle) → Fallback-Strategie
+
+Zielabweichungen → Alarm-Monitor mit Ticket-Automatisierung
+
+image::..\assets\tables\images\esgDashboard.png[ESG Dashboard]
+
+=== Nächste Schritte
+
+Externe Zertifizierungs­partner für DGNB/BREEAM definieren
+
+Datenbankstruktur für Timeseries-Daten finalisieren
+
+API-Endpunkte für viertelstündliche Energiemessungen spezifizieren
+
+Integration der ÖKOBAUDAT-Datenquelle im F&E-Steering-Committee beschließen
+
+Mit dieser Ausgestaltung erfüllt DWE die Förderanforderungen im Wohnbau und schafft die Grundlage für weitergehende Nachhaltigkeitszertifizierungen bei öffentlichen Großprojekten.
