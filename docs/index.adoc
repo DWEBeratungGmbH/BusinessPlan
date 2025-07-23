@@ -1,0 +1,114 @@
+= DWE & ARCAVIO Businessplan
+Sebastian Möhrer
+:doctype: book
+:toc: right
+:toclevels: 2
+
+Willkommen beim Businessplan der *DWE & ARCAVIO* - Generalübernehmung für energetische Gebäudesanierung in Aachen.
+
+== 🏢 Über DWE & ARCAVIO
+
+Als innovative Gesellschaftsstruktur kombinieren wir die operativen Stärken der DWE mit der strategischen Ausrichtung von ARCAVIO, um eine umfassende Lösung für energetische Gebäudesanierung anzubieten.
+
+'''
+
+== 📋 Inhaltsverzeichnis
+
+=== xref:01_ExecutiveSummery.adoc[📝 Executive Summary]
+
+Kurzüberblick über die wichtigsten Aspekte des Businessplans.
+
+=== xref:02_Grunderprofil_Gruenderteam.adoc[👤 Gründerprofil / Gründerteam]
+
+Darstellung der Gründer, Qualifikationen und Rollen im Unternehmen.
+
+=== xref:03_Geschaeftsmodell.adoc[🏗️ Geschäftsmodell]
+
+Unser Kerngeschäft als Generalübernehmung für energetische Gebäudesanierung -- von der Beratung bis zur Umsetzung.
+
+=== xref:04_zielgruppen.adoc[🎯 Zielgruppen]
+
+Unsere primären und sekundären Zielgruppen im Bereich energetische Sanierung.
+
+=== xref:05_Markt_Wettbewerb.adoc[📊 Markt & Wettbewerb]
+
+Marktanalyse, Wettbewerber und unsere Alleinstellungsmerkmale.
+
+=== xref:06_Marketing_Vertrieb.adoc[📈 Marketing & Vertrieb]
+
+Marketingstrategie, Kundengewinnung und Vertriebswege.
+
+=== xref:07_Organisation_Standort.adoc[🏢 Organisation & Standort]
+
+Unternehmensstruktur, Rechtsform, Standortwahl und Personalplanung.
+
+=== xref:08_Gesellschafterstruktur.adoc[👥 Gesellschafterstruktur]
+
+Die Aufgabenverteilung und Verantwortlichkeiten unserer Gesellschafter.
+
+=== xref:09_Chancen_Risiken.adoc[⚖️ Chancen & Risiken]
+
+Analyse der wichtigsten Chancen und Risiken (SWOT).
+
+=== xref:10_Meilensteine.adoc[🎯 Meilensteine]
+
+Strategische Entwicklungsziele und geplante Expansion unseres Geschäftsbereichs.
+
+=== xref:11_finanzplanung.adoc[💰 Finanzplanung]
+
+Detaillierte Umsatz-, Kosten- und Gewinnprognosen für die nächsten Jahre.
+
+'''
+
+== 📊 Kennzahlen auf einen Blick
+
+|===
+| Kennzahl | 2025 | 2026 (Prognose) | 2027 (Prognose)
+
+| Projektumsatz
+| 50.000 €
+| 150.000 €
+| 300.000 €
+
+| Projekte gesamt
+| 8
+| 25
+| 45
+
+| Mitarbeiter
+| 3
+| 4
+| 6
+
+| Geschäftsregion
+| Aachen + 50km
+| NRW
+| Deutschland
+|===
+
+'''
+
+== 🏆 Unsere Stärken
+
+!!! success "Kernkompetenzen"
+    - *Energieberatung*: BAFA-zertifiziert mit jahrelanger Erfahrung
+    - *Generalübernehmung*: Komplettlösung aus einer Hand
+    - *Fördermittelexpertise*: Maximale Ausschöpfung aller Förderprogramme
+    - *Qualitätssicherung*: Fremdüberwachung durch indicamus
+
+!!! info "Marktposition"
+    Als einer der wenigen Anbieter in der Region Aachen bieten wir die komplette Wertschöpfungskette von der Erstberatung bis zur schlüsselfertigen Sanierung.
+
+'''
+
+== 📞 Kontakt
+
+*DWE & ARCAVIO* +
+Sebastian Möhrer, Geschäftsführer +
+📧 sebastian.moehrer@dwe-arcavio.de +
+📱 +49 (0) 241 XXX-XXXX +
+🏢 Aachen, Deutschland
+
+'''
+
+_Letztes Update: Juli 2025_

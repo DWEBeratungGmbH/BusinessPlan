@@ -1,0 +1,1283 @@
+= 🏗️ Geschäftsmodell
+Sebastian Möhrer <sebastian@dwe-beratung.de>
+v1.1, 2025-07-23
+:toc: auto
+:toc-title: Inhaltsverzeichnis
+:toclevels: 2
+:sectnumslevels: 2
+:source-highlighter: rouge
+:imagesdir: ./images
+
+== 📋 Zusammenfassung
+
+Unsere Mission ist es, die energetische Gebäudesanierung für Wohnungseigentümergemeinschaften (WEGs) und private Investoren so unkompliziert, planbar und effizient wie möglich zu machen. Durch individuelle Komplettlösungen sorgen wir für gesicherte Qualität und maximale Prozessvereinfachung -- von der ersten Beratung bis zur Abnahme. Im Rheinischen Revier wollen wir in den kommenden 5 bis 10 Jahren zum Marktführer im Bereich ganzheitlicher WEG-Sanierungen werden und unsere Leistungen sukzessive in weitere Regionen ausweiten.
+
+== 🏠 Kundensegmente
+
+Die energetische Sanierung steckt in Deutschland in einem Sanierungsstau. WEG‐Gebäude (Wohnungseigentümergemeinschaften) sind dabei das größte Sorgenkind -- aber auch die größte Chance. Das Kapitel fasst Marktgröße, Pain-Points, Investitionsrahmen und Wettbewerbssituation leicht verständlich zusammen.
+
+=== 📊 Marktgröße im Rheinischen Revier
+
+Ein Blick auf die fünf Kernkreise zeigt ein enormes Potenzial an Mehrfamilienhäusern mit 5 -- 20 Wohneinheiten -- unserer Kernzielgruppe.
+
+image::https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c211d5a1f48fca5f1c52298d4d4e6398/68931b51-8102-416a-825d-ff5deb590729/4f2e7c95.png[Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier]
+
+Potenzial an WEG-Gebäuden (5-20 Einheiten) im Rheinischen Revier
+
+|===
+| Kreis | Gebäude 5-20 WE | Marktvolumen bei 1% Sanierungsquote 50,000 € / WE | Marktvolumen bei 2% Sanierungsquote 100,000 € / WE
+
+| Aachen
+| 7,000[{caret}1]
+| €35.0 Mio.[{caret}2]
+| €140.0 Mio.[{caret}2]
+
+| Düren
+| 5,300[{caret}1]
+| €26.5 Mio.[{caret}2]
+| €106.0 Mio.[{caret}2]
+
+| Euskirchen
+| 4,500[{caret}1]
+| €22.5 Mio.[{caret}2]
+| €90.0 Mio.[{caret}2]
+
+| Rhein-Erft-Kreis
+| 6,400[{caret}1]
+| €32.0 Mio.[{caret}2]
+| €128.0 Mio.[{caret}2]
+
+| Köln
+| 18,000[{caret}1]
+| €90.0 Mio.[{caret}2]
+| €360.0 Mio.[{caret}2]
+
+| *Summe*
+| *41,200*
+| *€206.0 Mio.*
+| *€824.0 Mio.*
+|===
+
+*Schlüsselzahl:* Selbst bei nur 1% Sanierungsquote ergibt sich ein direkt adressierbares Jahresvolumen von über €200 Mio. im Kerngebiet -- bei ambitionierten 2% über €800 Mio.
+
+=== 🎯 Primäre Zielgruppen
+
+==== 🏢 Wohnungseigentümergemeinschaften (WEGs)
+
+* 70% der WEG-Gebäude sind energetisch unsaniert[{caret}3][{caret}4].
+* *Pain-Points:* komplizierte Beschlussfassung, fehlende Rücklagen, Unsicherheit zu Fördermitteln.
+* *Investitionsrahmen:* €50,000 -- €150,000 pro Wohnung.
+* *Finanzierung:* überwiegend KfW-Kredite; Eigenkapital selten vorhanden.
+
+==== 💼 Private Investoren
+
+* Portfoliobesitzer mit 2-10 Mehrfamilienhäusern.
+* *Pain-Points:* Zeitaufwand, Koordination vieler Gewerke, Kostentransparenz.
+* *Vorteil für uns:* Festpreis pro Leistungseinheit minimiert ihr Risiko.
+
+=== 👥 Sekundäre Zielgruppen
+
+* 🏗️ Projektentwickler \& Immobilienunternehmen -- hohe Volumina, aber umkämpfter Markt.
+* 🗄️ Hausverwaltungen -- Multiplikator zu vielen WEGs, stark preisgetrieben.
+* 🏢 Gewerbeimmobilienbesitzer -- ESG-Druck wächst; längere Akquisezyklen.
+* 🏛️ Öffentliche Auftraggeber -- große Projekte, aber langwierige Vergaben.
+
+=== 💵 Kaufkraft \& Finanzierungsbereitschaft
+
+* Typische WEG-Sanierung: €50,000 -- €150,000 pro Einheit.
+* 80% + der Maßnahmen werden kreditfinanziert; KfW-Programme (EH70/EH100) dominierend[{caret}5].
+* Regionale Programme (Stadt Aachen, Strukturwandel Rheinisches Revier) erhöhen die Förderquote auf bis zu 30%[{caret}6][{caret}7].
+
+=== ⚔️ Wettbewerb \& Positionierung
+
+|===
+| Wettbewerber | Schwäche bei WEGs | Unser USP
+
+| Lokale Handwerker
+| Kein Gesamtangebot, Bauherr muss koordinieren
+| Ein Ansprechpartner, Komplettservice
+
+| Große Bauunternehmen
+| Fokus auf Neubau, geringe Flexibilität
+| Spezialisierung auf Bestands-WEG-Sanierung
+
+| Andere GU
+| Preisvolatil, oft ohne Festpreisbindung
+| Preisstabile Einheitspreise \& klare Projektphasen
+|===
+
+*Warum WEGs für die Konkurrenz schwierig sind:* Viele Entscheider, komplexe Beschlüsse, hoher Beratungsaufwand -- wir lösen das mit moderierten Eigentümerversammlungen, Festpreisangeboten und Fördermittel-Service.
+
+=== 📈 Umsatzszenarien 2026-2030 (Kerngebiet)
+
+|===
+| Marktanteil | Projekte/Jahr | Ø Umsatz/Projekt | Jahresumsatz
+
+| 0.5%
+| 5
+| €350,000
+| €1.8 Mio.
+
+| 1.0%
+| 10
+| €350,000
+| €3.5 Mio.
+
+| 2.0%
+| 20
+| €350,000
+| €7.0 Mio.
+
+| 5.0%
+| 50
+| €350,000
+| €17.6 Mio.
+|===
+
+=== 💡 Fazit
+
+Der Markt im Rheinischen Revier bietet ein klar segmentiertes, finanziell anschlussfähiges Volumen. Unsere Festpreis-Komplettlösung adressiert exakt die größten Pain-Points der WEGs und positioniert uns gegenüber Handwerkern und klassischen Bauunternehmen als einzigartiger Problemlöser.
+
+== 💎 Value Proposition / Kundennutzen
+
+Unsere Kunden profitieren von einem Komplettangebot, das maximale Qualität, Transparenz und Komfort in der energetischen Sanierung garantiert. Wir nehmen Komplexität und Unsicherheit aus dem Prozess -- und schaffen tatsächlichen Mehrwert für Eigentümer, Verwaltungen und Investoren.
+
+=== ⭐ Was macht unser Angebot einzigartig?
+
+*SICHERHEIT DURCH QUALITÄT*
+
+* *Ausschließlich geprüfte Meisterbetriebe:* Wir arbeiten ausschließlich mit qualifizierten Handwerksunternehmen zusammen, die über anerkannten Meisterstatus verfügen.
+* *RAL- und vergleichbare Zertifikate:* Unsere Partner verfügen über relevante RAL-Zertifizierungen und weitere branchenspezifische Gütesiegel.
+* *Eigene Schulungsprogramme:* Jeder Partner durchläuft eine umfassende Schulung, die unsere Standards und Schwerpunkte rund um hochwertige energetische Sanierung vermittelt.
+* *Unabhängige Qualitätskontrolle:* Sämtliche Leistungen werden durch interne QS-Prozesse sowie -- nach Bedarf -- durch externe, unabhängige Sachverständige überwacht.
+* *Dokumentierte Qualität:* Alle Maßnahmen, Prüfungen und Nachweise sind jederzeit im Kundenportal abrufbar.
+
+=== 🔎 Monitoring \& Transparenz im Betrieb
+
+*Mehr als Bauqualität -- auch nach der Sanierung!*
+
+* *Digitales Gebäudemodell (IFC):* Sämtliche energetisch relevanten Daten werden direkt im digitalen Gebäudemodell (IFC) gespeichert.
+* *Monitoring im Betrieb:* Verbräuche und Energiekennzahlen werden automatisiert gesammelt und analysiert.
+* *Benchmarks \& Auswertungen:* Im Portal stehen Verbrauchsreports und Vergleichswerte (vor und nach der Sanierung) zur Verfügung.
+* *Optimierungsmöglichkeiten:* Auf Basis der überwachten Daten bieten wir konkrete Hinweise, um Anlageneinstellungen oder Nutzerverhalten im Betrieb weiter zu verbessern.
+* *Faire Abrechnung:* Die Verbrauchsdaten bilden zugleich die Grundlage für eine faire, transparente Abrechnung bei gemeinschaftlich genutzten Liegenschaften.
+
+=== 🖥️ Digitales Kundenportal: Ihr Projekt, Ihre Daten
+
+|===
+| Vorteil | Nutzen für den Kunden
+
+| Zentrale Dokumentensammlung
+| Alle Verträge, Pläne, Berichte \& Abnahmen digital und sicher
+
+| Baufortschritt live verfolgen
+| Immer aktuell informiert über Meilensteine und Status
+
+| Nutzungs- \& Betriebsauswertung
+| Übersichten zu Verbrauch, Kosten und Optimierungspotenzialen
+
+| Kommunikation \& Service
+| Direkter Kontaktkanal, Ticketingsystem für offene Fragen
+|===
+
+=== 🤝 Serviceversprechen \& Entwicklung
+
+* *Service ab dem ersten Tag:* Persönliche Ansprechpartner begleiten Sie vom Erstgespräch bis zur Abnahme.
+* *Perspektive 24h-Notdienst:* Zum Marktstart kooperieren wir mit ausgewählten Externen für Notdienste. Eigene 24h-Strukturen bauen wir als langfristiges Ziel auf.
+* *Individuelle Betreuung:* Unser Team steht Ihnen auch nach der Sanierung mit Support, Wartungsangeboten und Betriebsoptimierung zur Seite.
+
+=== 🏅 Der Mehrwert im Überblick
+
+|===
+| Qualitätsmerkmal | Ihr Vorteil
+
+| Handwerker mit RAL
+| Höchste Ausführungsstandards, weniger Reklamationen
+
+| QS \& Schulung
+| Einheitliche Qualität, professionelle Zusammenarbeit
+
+| Objekt-Monitoring
+| Klarheit über Verbrauch \& Kosten, schnelle Optimierung
+
+| Digitalportal
+| Transparenz, Übersicht \& Sicherheit ohne Papierchaos
+
+| Komplettservice
+| Ein Ansprechpartner, alle Leistungen klar geregelt
+|===
+
+*So sorgen wir für nachhaltige, stressfreie und finanziell sichere Sanierungsergebnisse -- heute und in Zukunft!*
+
+== 🏗️ Produkte & Dienstleistungen
+
+Unser Leistungsangebot umfasst die komplette energetische Sanierung von Mehrfamilienhäusern und WEGs -- von der ersten Projektidee bis zur laufenden Betriebsoptimierung. Dabei orientieren wir uns an bewährten HOAI-Standards und nutzen moderne BIM-Prozesse für maximale Transparenz und Qualität.
+
+=== 🎯 Unser Projektansatz
+
+==== Projektvolumen und Zielgröße
+
+* *Mindestvolumen:* 450.000 € (ab 3 Wohneinheiten)
+* *Optimaler Einstieg:* 500.000 € (ab 5 Wohneinheiten)
+* *Fokus:* Komplettlösungen für anspruchsvolle Sanierungsprojekte
+* *Keine Teilleistungen* in der Aufbauphase (Ausnahme: Projektentwicklung und Fachplanung als abgrenzbare Pakete)
+
+==== Warum Komplettservice?
+
+Einzelgewerke bedeuten unkalkulierbare Risiken durch Schnittstellen und Verantwortungsdiffusion. Unser *All-in-One-Ansatz* garantiert:
+
+* Eine einheitliche Qualität über alle Gewerke
+* Klare Gesamtverantwortung ohne Haftungslücken
+* Optimierte Koordination und verkürzte Bauzeiten
+* Transparente Festpreise ohne versteckte Nachträge
+
+=== 🔄 Projektablauf in vier Phasen
+
+==== Phase 1: Projektentwicklung (LPH 01-04)
+
+[cols=2*]
+|===
+| *Dauer:* 3-4 Monate
+| *Aufwand:* Mittel bis hoch
+|===
+
+*Kernleistungen:*
+
+* *Aufgabenklärung \& Ortsbesichtigung:* Kundenvorstellungen erfassen, Finanzrahmen definieren, Bestandsaufnahme vor Ort
+* *Variantenentwicklung:* Multiple Sanierungsoptionen mit BIM-3D-Visualisierung für WEG-Entscheidungen
+* *Kostenschätzung nach DIN 276:* Realistische Budgetplanung mit Fördermittelintegration
+* *Bauantragsstellung:* Komplette Abwicklung aller behördlichen Verfahren und Nachweise
+
+*Besonderheit für WEGs:* Moderierte Eigentümerversammlungen mit vorbereiteten Entscheidungsvorlagen und verständlichen Visualisierungen.
+
+==== Phase 2: Fachplanung (LPH 05-07)
+
+[cols=2*]
+|===
+| *Dauer:* 2-3 Monate
+| *Aufwand:* Hoch
+|===
+
+*Kernleistungen:*
+
+* *Ausführungsplanung:* Detaillierte Konstruktionspläne, Anschlussdetails und Materialfestlegungen
+* *Koordination aller Fachplaner:* Haustechnik, Statik, Brandschutz -- alles aus einer Hand koordiniert
+* *Ausschreibung \& Vergabe:* Mengenermittlung, Leistungsverzeichnisse, Angebotsprüfung und Vergabeempfehlung
+
+*Qualitätssicherung:* Kollisionsprüfung im BIM-Modell verhindert teure Planungsfehler vor Baubeginn.
+
+==== Phase 3: Umsetzung (LPH 08)
+
+[cols=2*]
+|===
+| *Dauer:* 6-8 Monate
+| *Aufwand:* Hoch
+|===
+
+*Kernleistungen:*
+
+* *Bauüberwachung \& Qualitätskontrolle:* Lückenlose Dokumentation, Mängelmanagement, Bautagebuch
+* *Gewerkekoordination:* Professionelle Steuerung aller Handwerker und Terminpläne
+* *Kosten- \& Rechnungsprüfung:* Soll-Ist-Vergleich, Budgetüberwachung, Nachtragsbewertung
+* *Abnahmebegleitung:* Teil- und Endabnahmen mit strukturierten Mängelprotokollen
+
+*Unser Qualitätsstandard:* Ausschließlich Meisterbetriebe mit RAL-Zertifizierungen plus externe Qualitätskontrolle durch unabhängige Sachverständige.
+
+==== Phase 4: Betrieb \& Service (LPH 09-10)
+
+[cols=2*]
+|===
+| *Dauer:* Langfristige Betreuung
+| *Aufwand:* Mittel (digital optimiert)
+|===
+
+*Grundleistungen:*
+
+* *Mängelverfolgung:* Systematische Nachbesserungsüberwachung während Gewährleistungszeit
+* *Wartung \& Inspektion:* Präventive Wartungspläne, technische Prüfungen nach BetrSichV
+* *Monitoring \& Optimierung:* Kontinuierliche Verbrauchsauswertung mit Optimierungsvorschlägen
+* *Lebenszyklus-Management:* Langfristige Erneuerungsplanung und Investitionsberatung
+
+*Zusatzservices (kostenpflichtig):*
+
+* Digitale Nebenkostenabrechnungen für WEGs
+* 24h-Notdienst (perspektivisch)
+* Erweiterte Monitoring-Dashboards
+* Schadensbehebung und Reparatur-Koordination
+
+=== 💻 Digitale Services \& Kundenportal
+
+==== Basis-Portal (kostenlos)
+
+* Zentrale Dokumentensammlung (Verträge, Pläne, Abnahmeprotokolle)
+* Live-Baufortschritt mit Foto-Dokumentation
+* Direkter Kommunikationskanal zum Projektteam
+* Gewährleistungs- und Wartungsübersicht
+
+==== Premium-Module (Abo-basiert)
+
+|===
+| Service | Nutzen | Preis-Modell
+
+| *Automatische Nebenkostenabrechnung*
+| WEG-konforme Kostensplitting
+| Monatlich/Jährlich
+
+| *Erweiterte Verbrauchsanalytik*
+| Benchmarking, Optimierungsreports
+| Monatlich
+
+| *Prädiktive Wartung*
+| Frühwarnsystem für Anlagenprobleme
+| Jährlich
+
+| *Digitale Mieterverwaltung*
+| Kommunikation, Störungsmeldungen
+| Monatlich
+|===
+
+=== 🛠️ Technisches Leistungsspektrum
+
+==== Gebäudehülle
+
+* *Dämmung:* Dach, Fassade, Keller, Geschossdecken
+* *Fenster \& Türen:* Hocheffiziente Verglasung, Eingangsbereiche
+* *Balkone \& Loggien:* Energetische Ertüchtigung, Abdichtung
+
+==== Gebäudetechnik
+
+* *Heizung:* Wärmepumpen, Pellet, Gas-Brennwert (je nach Objekt optimal)
+* *Lüftung:* Kontrollierte Wohnraumlüftung mit Wärmerückgewinnung
+* *Photovoltaik:* Eigenverbrauchsoptimierte PV-Anlagen mit Speichern
+* *Smart Home:* Intelligente Steuerung, Monitoring, Fernwartung
+* *Elektrik:* Modernisierung nach aktuellen Standards, E-Ladeinfrastruktur
+
+==== Besondere Stärken
+
+* *BIM-Integration:* Vollständige 3D-Modellierung für Planung und Betrieb
+* *Energieberater-Kooperation:* Neutraler indicamus-Partner für unabhängige Beratung
+* *Fördermittel-Vollservice:* KfW, BAFA, Land NRW, kommunale Programme -- alles aus einer Hand
+
+=== 🎯 Service-Level \& Entwicklung
+
+==== Start-Phase (Jahr 1)
+
+* *Fokus:* Prozess- und Partneraufbau
+* *Service:* Persönliche Betreuung, Basis-Portal
+* *Notdienst:* Kooperation mit externem Partner
+
+==== Ausbau-Phase (Jahr 2-3)
+
+* *Eigenes Serviceteam* für Wartung und Optimierung
+* *Digitale Fernwartung* durch Sensorik und IoT-Integration
+* *Prädikatssystem:* Frühwarnung vor Anlagenstörungen
+
+==== Vision (Jahr 5+)
+
+* *24h-Eigenservice* für alle Kunden
+* *Proaktive Wartung* durch KI-gestützte Zustandsanalytik
+* *Komplette Gebäudedigitalisierung* als Standard
+
+=== 📈 Zusätzliche Erlösquellen
+
+|===
+| Bereich | Umsatzpotenzial | Zeitrahmen
+
+| *Wartungsverträge*
+| 5-10% des Bauvolumens/Jahr
+| Ab Jahr 2
+
+| *Digitale Services*
+| 50-200€/Einheit/Monat
+| Ab Jahr 1
+
+| *Finanzierungs-Provision*
+| 0,5-1% Vermittlungsprovision
+| Ab Jahr 1
+
+| *Beratungsleistungen*
+| 150-300€/Beratungstag
+| Ab Jahr 1
+
+| *Eigene Projektentwicklung*
+| Projektabhängig
+| Ab Jahr 5
+|===
+
+=== 🏆 Qualitätsversprechen
+
+*Was wir garantieren:*
+
+* ✅ *Bauqualität:* Meisterbetriebe mit RAL-Zertifizierung
+* ✅ *Prozessqualität:* HOAI-konforme Projektabwicklung
+* ✅ *Kostensicherheit:* Festpreise pro Leistungseinheit
+* ✅ *Terminreue:* 12 Monate von Auftrag bis Abnahme (ohne Baugenehmigung)
+* ✅ *Digitale Transparenz:* Vollständige Projektdokumentation
+
+*Was wir überwachen (aber nicht garantieren):*
+
+* *Energieverbräuche:* Monitoring mit Optimierungsvorschlägen
+* *Betriebskosten:* Analyse und Verbesserungsmöglichkeiten
+* *Nutzerverhalten:* Schulung und Beratung für optimalen Gebäudebetrieb
+
+Durch diese durchgängige, digitalisierte und qualitätsgesicherte Herangehensweise schaffen wir für unsere Kunden maximale Planungssicherheit -- von der ersten Idee bis zum langjährigen, effizienten Gebäudebetrieb.
+
+== 💰 Erlösmodell
+
+Unser Erlösmodell basiert auf einer transparenten, phasengerechten Abrechnung kompletter Sanierungsprojekte. Durch die Kombination aus Haupterlösen (Komplettsanierung) und ergänzenden Services schaffen wir multiple, planbare Einnahmequellen für nachhaltiges Wachstum.
+
+=== 🎯 Überblick: Drei Säulen unserer Erlöse
+
+|===
+| Erlössäule | Beschreibung | Anteil am Gesamtumsatz
+
+| *🏗️ Hauptgeschäft*
+| Komplette energetische Sanierungen
+| 85-90%
+
+| *💻 Digitale Services*
+| Portal-Module, Monitoring, Abrechnungen
+| 5-10%
+
+| *🔧 Service \& Wartung*
+| Wartungsverträge, Betriebsoptimierung
+| 5-10%
+|===
+
+=== 🏗️ Hauptgeschäft: Komplettsanierungen
+
+==== Projektvolumen und Zielkunden
+
+* *Mindestvolumen:* 450.000 € (ab 3 Wohneinheiten)
+* *Optimaler Bereich:* 500.000 € bis 2 Mio. € (5-20 Wohneinheiten)
+* *Zielkunden:* WEGs, private Investoren, Projektentwickler
+
+==== Preismodell: BIM-basierte Einheitspreise
+
+*So kalkulieren wir:*
+
+. *Digitales Gebäudemodell (BIM)* für jedes Projekt
+. *Mengenermittlung nach VOB Teil B* - präzise und nachvollziehbar
+. *Einheitspreise* für jede Leistungsposition (€/m², €/Stück, €/lfd. Meter)
+. *Default-Werte* für alle unbekannten Positionen von Angebotsstart
+. *Dynamische Anpassung* nur bei echten Planungsänderungen
+
+*Beispiel Standardpositionen:*
+
+* Fenster: Kunststoff, Dreifachverglasung, Mitteldichtung (Standard)
+* Upgrades: Holz-Alu-Fenster werden offen nachkalkuliert
+* Dämmung: Standard-Dämmstärke mit Upgrade-Optionen
+
+=== 💳 Zahlungsstruktur: Frontlastig durch BIM-Ansatz
+
+Anders als klassische HOAI-Projekte ist unser Erlösmodell *frontlastig* gestaltet. Durch intensive BIM-Planung und Digitalisierung schaffen wir früh Mehrwert und reduzieren Bauzeit sowie -kosten.
+
+==== Kostenverteilung (Beispiel: 1 Mio. € Projekt)
+
+|===
+| Phase | Leistung | Planungsanteil | Betrag | % Gesamt
+
+| *Phase 1*
+| Projektentwicklung, BIM-Modell
+| 25%
+| 50.000 €
+| 5%
+
+| *Phase 2*
+| Fachplanung, Ausschreibung
+| 35%
+| 70.000 €
+| 7%
+
+| *Phase 3*
+| Bauumsetzung, Überwachung
+| 40% + Baukosten
+| 880.000 €
+| 88%
+
+| *Gesamt*
+| Komplettpaket
+| 100%
+| 1.000.000 €
+| 100%
+|===
+
+*Unser Vorteil:* 20% Planungskosten (vs. 15-17% bei klassischer HOAI) führen zu:
+
+* ✅ Kürzere Bauzeit durch bessere Vorbereitung
+* ✅ Weniger Nachträge und Änderungen
+* ✅ Höhere Planungssicherheit für Kunden
+* ✅ Bessere Liquidität für unser Unternehmen
+
+==== Zahlungsablauf: Sicherheit für beide Seiten
+
+----
+1. ANZAHLUNG (5%) → Vertragsverbindlichkeit
+2. PHASE 1 ABSCHLUSS → Rechnung vor Präsentation
+3. BESPRECHUNGSTERMIN → Ergebnisse werden vorgestellt
+4. ZAHLUNG → Erst dann Übergabe aller Unterlagen
+5. PHASE 2 ABSCHLUSS → Gleicher Ablauf
+6. BAUPHASE → Regelmäßige VOB-Abschläge
+7. ENDABNAHME → Schlussrechnung
+----
+
+=== 💻 Digitale Zusatzerlöse: Skalierbare Services
+
+==== Kundenportal: Freemium-Modell
+
+*Basic-Portal (kostenlos):*
+
+* Projektdokumentation und Verträge
+* Baufortschritt mit Foto-Updates
+* Direkter Kommunikationskanal
+* Gewährleistungsübersicht
+
+*Premium-Module (kostenpflichtig):*
+
+|===
+| Modul | Nutzen | Preis | Zielgruppe
+
+| *Digitale Nebenkostenabrechnung*
+| WEG-konforme Kostensplittung
+| 25-50€/Monat
+| WEGs
+
+| *Erweiterte Verbrauchsanalytik*
+| Benchmarking, Optimierungsreports
+| 30-80€/Monat
+| Alle Kunden
+
+| *Prädiktive Wartung*
+| Frühwarnsystem für Anlagenprobleme
+| 100-200€/Jahr
+| Investoren
+
+| *Mieter-Kommunikationsportal*
+| Störungsmeldungen, Updates
+| 15-30€/Monat
+| Vermieter
+|===
+
+==== Potenzial digitaler Services
+
+Bei *10 aktiven Projekten* mit durchschnittlich *8 Wohneinheiten*:
+
+* Basic-Portal: 80 Einheiten × 0€ = kostenlos (Kundenbindung)
+* Premium-Module: 60% Durchdringung × 80 Einheiten × 50€ = *2.400€/Monat*
+* *Jahresumsatz digitale Services: 28.800€*
+
+=== 🔧 Service & Wartung: Wiederkehrende Erlöse
+
+==== Wartungsverträge (ab Jahr 2)
+
+*Standard-Wartungspaket:*
+
+* Jährliche Anlageninspektion
+* Präventive Wartung (Heizung, Lüftung, PV)
+* Störungsbehebung und kleine Reparaturen
+* *Preis:* 5-8% des ursprünglichen Anlagenwertes/Jahr
+
+*Premium-Wartungspaket:*
+
+* 24h-Notdienst (perspektivisch)
+* Quartalsweise Inspektionen
+* Verbrauchsoptimierung und Finetuning
+* *Preis:* 8-12% des ursprünglichen Anlagenwertes/Jahr
+
+==== Beispielrechnung Wartungserlöse
+
+Bei einem *500.000€-Projekt* (Anlagenwert: 200.000€):
+
+* Standard-Wartung: 200.000€ × 6% = *12.000€/Jahr*
+* Nach 5 Jahren: 10 Projekte × 12.000€ = *120.000€/Jahr wiederkehrend*
+
+=== 📈 Umsatzszenarien: Wachstumsperspektiven
+
+==== Marktpotenzial im Rheinischen Revier
+
+|===
+| Marktanteil | Projekte/Jahr | Ø Projektvolumen | Jahresumsatz | Zusatzerlöse | Gesamtumsatz
+
+| *0,5%*
+| 5
+| 350.000€
+| 1,75 Mio.€
+| 50.000€
+| *1,8 Mio.€*
+
+| *1,0%*
+| 10
+| 350.000€
+| 3,5 Mio.€
+| 150.000€
+| *3,65 Mio.€*
+
+| *2,0%*
+| 20
+| 350.000€
+| 7,0 Mio.€
+| 400.000€
+| *7,4 Mio.€*
+
+| *5,0%*
+| 50
+| 350.000€
+| 17,5 Mio.€
+| 1,1 Mio.€
+| *18,6 Mio.€*
+|===
+
+==== Entwicklung der Erlösstruktur
+
+*Jahr 1-2: Aufbau*
+
+* 95% Hauptgeschäft (Sanierungen)
+* 5% Digitale Services
+
+*Jahr 3-5: Diversifikation*
+
+* 85% Hauptgeschäft
+* 10% Digitale Services
+* 5% Wartung \& Service
+
+*Jahr 5+: Reife Phase*
+
+* 80% Hauptgeschäft
+* 12% Digitale Services
+* 8% Wartung \& Service
+
+=== 🔒 Risikominimierung im Erlösmodell
+
+==== Finanzielle Absicherung
+
+*Zahlungssicherheit:*
+
+* Keine Vorleistungen ohne Bezahlung
+* Vertragserfüllungsbürgschaften bei Großprojekten
+* VOB-konforme Abschlagszahlungen
+
+*Preissicherheit:*
+
+* Festpreise nach Mengenermittlung
+* Transparente Nachtragsregelung
+* Nur echte Planungsänderungen führen zu Preisänderungen
+
+*Liquiditätssicherheit:*
+
+* Frontlastige Zahlungsstruktur
+* Mehrere Erlösquellen (nicht nur Projektgeschäft)
+* Wiederkehrende Umsätze durch Service \& Wartung
+
+==== Skalierungseffekte
+
+*Kostenreduktion durch Volumen:*
+
+* Bessere Einkaufskonditionen ab 10+ Projekten/Jahr
+* Standardisierte Prozesse reduzieren Planungsaufwand
+* Digitale Tools amortisieren sich bei höherer Projektanzahl
+
+*Margenverbesserung:*
+
+* Jahr 1: Aufbau von Prozessen und Partnerschaften
+* Jahr 2-3: Optimierung und erste Skaleneffekte
+* Jahr 4+: Stabile Margen durch etablierte Strukturen
+
+=== 🎯 Erfolgsfaktoren für nachhaltiges Wachstum
+
+==== Kundenbindung durch Mehrwert
+
+* *Qualität vor Quantität:* Zufriedene Kunden werden zu Botschaftern
+* *Digitaler Mehrwert:* Portal und Services schaffen langfristige Bindung
+* *Persönliche Betreuung:* Projektmanager als dauerhafte Ansprechpartner
+
+==== Operative Exzellenz
+
+* *BIM-basierte Effizienz:* Frontlastige Planung spart Zeit und Kosten
+* *Partnernetzwerk:* Stabile, geschulte Handwerker garantieren Qualität
+* *Prozessstandardisierung:* Wiederholbare Abläufe für planbare Ergebnisse
+
+==== Finanzielle Nachhaltigkeit
+
+* *Mehrere Erlösquellen* reduzieren Abhängigkeit von einzelnen Projekten
+* *Wiederkehrende Umsätze* durch Service und digitale Abos
+* *Skalierbare Struktur* ermöglicht profitables Wachstum
+
+=== 💡 Fazit: Ein durchdachtes, skalierbares Erlösmodell
+
+Unser Erlösmodell kombiniert bewährte Projektabrechnung mit innovativen, digitalen Zusatzservices. Durch die frontlastige Struktur schaffen wir früh Mehrwert für Kunden und sichern gleichzeitig unsere Liquidität. Die Ergänzung um wiederkehrende Erlöse aus Wartung und digitalen Services macht unser Geschäftsmodell nachhaltig und weniger abhängig von einzelnen Großprojekten.
+
+*Zentrale Erfolgsfaktoren:*
+
+* ✅ Transparente, BIM-basierte Kalkulation
+* ✅ Frontlastige Zahlungsstruktur für bessere Liquidität
+* ✅ Multiple Erlösquellen für Risikostreuung
+* ✅ Skalierbare digitale Services für langfristige Kundenbindung
+* ✅ Klare Wachstumspfade von 1,8 bis 18,6 Mio. € Jahresumsatz
+
+Mit diesem Erlösmodell sind wir bestens aufgestellt, um im wachsenden Markt der energetischen Sanierung erfolgreich zu skalieren und dabei sowohl für Kunden als auch für unser Unternehmen nachhaltigen Wert zu schaffen.
+
+== 📈 Vertriebskanäle (Channels)
+
+Ein fokussierter Kanal-Mix liefert messbare Leads bei minimalen Streuverlusten. Die folgenden Abschnitte vertiefen jede Säule unseres Vertriebssystems mit klaren Strukturen und ergänzenden Visuals für mehr Übersicht.
+
+=== 🎯 Warum unser Vertrieb funktioniert
+
+* Qualifizierte Leads durch *Phase-Null-Beratung* unabhängiger Energieberater
+* *SEO-starke Website* statt teurer Ads in der Startphase  
+* *Events & Messen* schaffen Vertrauen und liefern persönliche Kontakte
+* *Rahmenvertrags-Partnernetz* ohne Provisionskonflikte sichert ehrliche Empfehlungen
+* Geplante *Expansion*: Rheinisches Revier → NRW → bundesweit
+
+=== 🔑 Kanal-Mix im Überblick
+
+[cols="4*", options="header"]
+|===
+|Kanal |Rolle im Funnel |Budgetanteil |Haupt-KPI
+
+|Website & SEO
+|Leadmagnet & Referenzen  
+|40%
+|5–10 qualifizierte Leads/Monat
+
+|Energieberater
+|Erstfilter & Vertrauensanker
+|20%
+|≥60% Lead→Angebot
+
+|Events/Messen
+|Vertrauensaufbau
+|30%
+|≥5 Leads je Event
+
+|Hausverwaltungen
+|Multiplikatoren
+|–
+|40% Anteil an Projekten
+
+|Architekten/Planer
+|Fachliche Türöffner
+|–
+|10% Anteil
+
+|Paid/Social Ads
+|Skalierung (ab Jahr 3)
+|10%
+|CPA ≤ 200 €
+|===
+
+image::budget.png["Diagramm Marketing-Budget"]
+
+=== 📋 Lead-Flow
+
+==== Sanierungsfahrplan (Phase 0)
+Externe Energieberater erstellen einen neutralen iSFP – qualifiziertes Eingangsticket in unsere Pipeline.
+
+==== Erstgespräch & BIM-Scan
+Vor-Ort-Termin, 3-D-Aufmaß, Klärung offener Punkte im Kundenportal.
+
+==== Festpreis-Angebot
+BIM-Mengenermittlung, offene Variablen markiert, Präsentation in WEG-Versammlung.
+
+==== Abschluss & Onboarding
+Digitale Signatur, Projektstart; CRM-Workflows übernehmen Nachverfolgung.
+
+=== 🏢 Events & Messen
+
+==== Relevante Formate
+* *Fachmessen* (BAU München, deubau Essen)
+* *WEG-Infoabende* mit Hausverwaltungen  
+* *BIM- & Energie-Kongresse* (BIM-World, EE-Fachkongress)
+
+==== Jahresplan
+* 16 – 32 Auftritte → 80 – 320 warme Leads/Jahr
+* Rollen:
+** Lennart Feldmann – bundesweite Fachauftritte
+** Timo & GF – regionale Präsenz im Rheinischen Revier
+
+=== 🤝 Partnernetzwerk
+
+==== Energieberater
+* Neutraler Erstkontakt, kein Kick-back
+* Rahmenverträge für dauerhafte Zusammenarbeit
+
+==== Hausverwaltungen
+* Multiplikatorzugang zu mehreren WEGs
+* Entlastung durch Komplettservice statt Provision
+
+==== Handwerks-Partner
+* Meisterbetriebe mit RAL-Zertifikat, feste Preise, standardisierte Details
+* Schulung auf DWE/Arcavio-Prozesse im eigenen Partnercampus
+
+=== 💻 Digitale Werkzeuge
+
+==== Arcavio-CRM
+* Lead-Scoring, Angebotsgenerator, Vertragsarchiv
+* KI-Reminder für Follow-ups (ab Jahr 3)
+
+==== Kundenportal
+* Echtzeit-Dashboard, Chat, Ticketing
+* Später Module für Monitoring, Abrechnung
+
+=== 📊 KPI-Cockpit
+
+[cols="3*", options="header"]
+|===
+|Kennzahl |Monatsziel |Tool
+
+|Website-Leads
+|5–10
+|Google Analytics
+
+|Lead→Angebot
+|≥60%
+|CRM
+
+|Angebot→Auftrag
+|≥30%
+|CRM
+
+|Akquisekosten/Projekt
+|≤5% Umsatz
+|Controlling
+
+|Partneranteil
+|≥40%
+|CRM
+|===
+
+=== 🗺️ Expansion Roadmap
+
+==== Phase 1 (Years 1-3)
+Rheinisches Revier – Direktvertrieb, Events, Energieberater.
+
+==== Phase 2 (Years 4-5)
+Ganz NRW – LinkedIn-Ads, Fachportale, verstärktes Partnernetz.
+
+==== Phase 3 (> Year 5)
+Bundesweit – Roll-out standardisierter Prozesse via regionale Teams.
+
+[NOTE]
+====
+Mit diesem strukturierten Kanal-Mix, klaren Budgets und messbaren KPIs skalieren wir den Vertrieb planbar – vom ersten Pilotprojekt bis zur bundesweiten Marktdurchdringung.
+====
+
+
+== 🤝 Kundenbeziehung
+
+Ein persönlicher Ansprechpartner, ein zentrales Kundenportal und exklusive After-Sales-Services sorgen für eine dauerhaft vertrauensvolle Zusammenarbeit.
+
+=== 👤 Persönliche Begleitung
+
+* Fester Projektmanager begleitet von Erstberatung bis Nachbetreuung.
+* Klare Terminabsprachen, schnelle Reaktionszeiten.
+* Transparente To-Do-Listen für alle Beteiligten.
+
+=== 💻 Digitales Kundenportal
+
+* Echtzeit-Dashboard: Meilensteine, Baufortschritt, offene Aufgaben.
+* Dokumentenarchiv: Verträge, Pläne, Protokolle jederzeit abrufbar.
+* DSGVO-konformer Chat \& Ticket-System für Fragen / Mängel.
+* Modular ausbaufähig: künftige Funktionen wie Monitoring, Report-Exports.
+
+image::https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a277ec34-51b0-43f3-8b36-e1ee6f22e109.png[Infografik: Kundenbeziehungs-Zyklus]
+
+Infografik: Kundenbeziehungs-Zyklus
+
+=== 📞 After-Sales-Service (nur eigene Projekte)
+
+* Wartungsverträge: jährliche Inspektionen, präventive Instandhaltung.
+* Effizienz-Checks \& Optimierungsvorschläge über das Portal.
+* Proaktive Hinweise auf Updates, Förderprogramme, Nachrüstungen.
+
+=== 💖 Kundenbindungs-Highlights
+
+|===
+| Baustein | Nutzen für den Kunden | Nutzen für uns
+
+| Persönlicher Projektmanager
+| Ein Ansprechpartner, klare Verantwortung
+| Höhere Kundenzufriedenheit
+
+| Zentrales Portal
+| Alle Infos an einem Ort, 24/7-Zugriff
+| Prozessbeschleunigung
+
+| Exklusive Wartung
+| Werterhalt \& Betriebssicherheit
+| Wiederkehrende Umsätze
+
+| Modularer Ausbau
+| Mehr Funktionen nach Bedarf
+| Cross-/Upselling-Potenzial
+|===
+
+Damit entsteht eine *durchgängige, modulare Kundenbeziehung*, die Qualität während der Bauphase sichert und langfristig Mehrwert liefert.
+
+== 🔑 Schlüsselressourcen
+
+Unsere Schlüsselressourcen bilden das Fundament für qualitativ hochwertige, digitale und nachhaltige Umsetzung energetischer Sanierungsprojekte. Im strategischen Mix aus qualifiziertem Personal, modernster IT-Infrastruktur und stabilen Partnerschaften liegt der Schlüssel zu unserem Wettbewerbsvorteils.
+
+=== 👥 Personalressourcen: Das Herzstück unseres Erfolgs
+
+==== *Kernteam bereits etabliert*
+
+* *Geschäftsführer (Sebastian):*
+ ** Intensive persönliche Präsenz bei ersten Pilotprojekten
+ ** Direkte Qualitätskontrolle und Kundenkontakt auf höchstem Niveau
+ ** Strategische Projektsteuerung und Risikomanagement
+* *Bereits angestellte Mitarbeiter:*
+ ** Eingespieltes Team mit direkten Kommunikationswegen
+ ** Flexible Einsetzbarkeit zwischen Planung, Bauleitung und Kundenservice
+ ** Bewährte interne Prozesse und Qualitätsstandards
+
+==== *Skalierbare Personalstruktur*
+
+|===
+| Projektvolumen | Personalbedarfs (VZÄ) | Teamzusammensetzung
+
+| *5 Mio. €*
+| 2,4 VZÄ
+| 1 PL + 1 BL + 0,4 Support
+
+| *10 Mio. €*
+| 4,8 VZÄ
+| 2 PL + 2 BL + 0,8 Support
+
+| *15 Mio. €*
+| 7,2 VZÄ
+| 3 PL + 3 BL + 1,2 Support
+|===
+
+*Effizienzgewinne durch DWE/Arcavio-Prozess:*
+
+* *1 Mio. € Projekt:* 983 Stunden (statt 1.137h konventionell) = *-13,5% Zeitersparnis*
+* *5 Mio. € Projekt:* 4.914 Stunden (statt 5.686h konventionell) = *-13,6% Zeitersparnis*
+
+==== *Personalentwicklung & Qualifikation*
+
+* Kontinuierliche Weiterbildung in BIM-Technologien und energetischen Standards
+* Schulungsprogramme für Partner zur Sicherstellung einheitlicher Qualitätsstandards
+* Zertifizierungen in HOAI-Projektabwicklung und digitalen Planungsmethoden
+
+=== 💻 IT- & Digitalressourcen: Technologischer Vorsprung
+
+==== *BIM-Plattform als Kernstück*
+
+* *Software-Lizenzen:* BIM-fähige Planungssoftware (Revit, ArchiCAD oder vergleichbar)
+* *Zentrale Datenhaltung:* Vollständige Projekt- und Gebäudedatenintegration für Planung, Ausführung und Betrieb
+* *3D-Visualisierung:* Kundenfreundliche Präsentationstools für WEG-Versammlungen
+* *Kollisionsprüfung:* Automatisierte Fehleridentifikation vor Baustart
+
+*Effizienzsteigerung durch BIM:*
+
+* Fehlerreduktion von 22,4% auf 9,6% der Projektkosten
+* 30% weniger Stunden in der Bauüberwachung durch digitale QS
+* Frontlastige Planung reduziert Nachträge und Stillstandszeiten
+
+==== *Arcavio App: Integrierte Geschäftslösung*
+
+* *CRM-System:* Lead-Management, Kundenkommunikation, Projektpipeline
+* *Kundenportal:* Echtzeit-Baufortschritt, Dokumentenverwaltung, Ticketsystem
+* *Mobile Optimierung:* Vollzugriff für Außendiensttermine und Baustellenbesuche
+* *Modularer Ausbau:* Schrittweise Erweiterung um Monitoring, Abrechnungen, Service-Module
+
+==== *Hardware & Infrastruktur*
+
+|===
+| Kategorie | Spezifikation | Zweck
+
+| *Workstations*
+| CAD/BIM-fähige PCs mit Hochleistungsgrafik
+| 3D-Modellierung, Planungssoftware
+
+| *Mobile Geräte*
+| Tablets, Smartphones für Baustellen
+| Foto-Dokumentation, Checklisten, Kommunikation
+
+| *Server/Cloud*
+| Hybrid-Lösung für Datensicherheit
+| Datenspeicherung, Backup, Remote-Zugriff
+
+| *Netzwerk*
+| Hochgeschwindigkeits-Internet, VPN
+| Große BIM-Datenmengen, sichere Kommunikation
+|===
+
+=== 🤝 Partnernetzwerk: Qualität durch Kooperation
+
+==== *Handwerks- und Planungspartner*
+
+* *Meisterbetriebe mit RAL-Zertifizierung:* Nur qualifizierte Unternehmen mit nachgewiesener Expertise
+* *Rahmenverträge statt Ausschreibung:* Feste Preisstrukturen, verlässliche Verfügbarkeit
+* *Kontinuierliche Schulungen:* Eigene Trainingsmodule für DWE/Arcavio-Standards
+* *Qualitätssicherung:* Regelmäßige Audits und Leistungsbewertungen
+
+==== *Strategische Kooperationen*
+
+* *Unabhängige Energieberater (indicamus):*
+ ** Phase-Null-Beratung für objektive Sanierungsfahrpläne
+ ** Kontinuierliche Projektbegleitung als neutraler Partner
+* *Fördermittel-Experten:* Optimierung der Finanzierungsstruktur
+* *Technologie-Partner:* Software-Entwicklung, IoT-Integration, Monitoring-Systeme
+
+==== *Win-Win-Philosophie statt Provisionen*
+
+____
+"Wir arbeiten nur mit Partnern zusammen, die von uns gute Aufträge und faire Rahmenverträge erhalten. Win-Win-Effekte nutzen -- ohne Provisionsverzerrung für ehrliche Empfehlungen."
+____
+
+=== 🏢 Infrastruktur & Ausstattung: Professioneller Rahmen
+
+==== *Büroinfrastruktur*
+
+* *Flexible Arbeitsplätze:* Hybride Arbeitsmodelle für optimale Produktivität
+* *Kundenberatungsräume:* Professionelle Präsentationsmöglichkeiten mit BIM-Visualisierung
+* *Meetinginfrastruktur:* Videokonferenz-Equipment für Partner- und Kundengespräche
+
+==== *Mess- und Prüfgeräte*
+
+|===
+| Gerätekategorie | Einsatzbereich | Nutzen
+
+| *Wärmebildkameras*
+| Energetische Schwachstellenanalyse
+| Präzise Bestandsaufnahme
+
+| *Blower-Door-Messgeräte*
+| Luftdichtheitsprüfung
+| Qualitätskontrolle Gebäudehülle
+
+| *IoT-Sensoren*
+| Kontinuierliches Monitoring
+| Betriebsoptimierung nach Sanierung
+
+| *Feuchtemessgeräte*
+| Baubegleitende Kontrolle
+| Vermeidung von Bauschäden
+|===
+
+==== *Fahrzeugpool*
+
+* Service-Fahrzeuge für regelmäßige Baustellenbesuche
+* Mobile Büro-Ausstattung für Vor-Ort-Termine
+* Elektrofahrzeuge als Referenz für nachhaltige Mobilität
+
+=== 💰 Finanzielle Ressourcen: Stabilität und Wachstum
+
+==== *Kapitalstruktur*
+
+* *Startkapital:* Eigenkapital für Grundausstattung und ersten Personaleinsatz
+* *Liquiditätsreserve:* Pufferkapital für Projektvorfinanzierung und unvorhergesehene Kosten
+* *Wachstumskapital:* Investitionen in IT-Entwicklung und Personalaufbau
+
+==== *Risikomanagement*
+
+* *Berufshaftpflichtversicherung:* Umfassender Schutz für Planungs- und Bauleistungen
+* *Bauleistungsversicherung:* Absicherung gegen Schäden während der Bauphase
+* *Gewährleistungsversicherung:* Langfristige Kundenabsicherung über Gewährleistungsfristen
+* *Kreditlinien:* Flexibilität für größere Projekte und Investitionen
+
+=== 📊 Ressourceneffizienz \& Skalierbarkeit
+
+==== *Optimierte Ressourcennutzung*
+
+* *KI-gestützte Personalplanung:* Automatisierte Kapazitätsoptimierung basierend auf Projektpipeline
+* *Digitale Prozessautomatisierung:* Reduzierung manueller Arbeitsschritte um bis zu 40%
+* *Predictive Maintenance:* Frühwarnsysteme für Equipment und IT-Infrastruktur
+
+==== *Wachstumspfade*
+
+|===
+| Unternehmensgröße | Kernressourcen | Zusätzliche Ressourcen
+
+| *Start (5 Mio. €)*
+| 2-3 VZÄ, Basis-IT, 5 Partner
+| Mobile Ausstattung
+
+| *Wachstum (10 Mio. €)*
+| 4-5 VZÄ, erweiterte IT
+| Zusätzliche Standorte
+
+| *Expansion (20 Mio. €)*
+| 8-10 VZÄ, Cloud-Infrastruktur
+| Regionale Teams
+|===
+
+=== 🎯 Erfolgsfaktoren unserer Schlüsselressourcen
+
+==== *Qualitätsvorsprung durch Integration*
+
+* Nahtlose Verbindung aller Ressourcen über digitale Plattformen
+* Einheitliche Standards für Personal, Partner und Prozesse
+* Kontinuierliche Verbesserung durch datengetriebene Optimierung
+
+==== *Flexibilität und Anpassungsfähigkeit*
+
+* Modulare IT-Architektur für schnelle Anpassungen an Marktveränderungen
+* Skalierbare Personalstruktur für unterschiedliche Projektgrößen
+* Agiles Partnernetzwerk für spezielle Anforderungen
+
+==== *Nachhaltigkeit und Zukunftssicherheit*
+
+* Investition in zukunftsfähige Technologien und Kompetenzen
+* Aufbau langfristiger Partnerschaften statt kurzfristiger Transaktionen
+* Kontinuierliche Weiterentwicklung entsprechend Marktanforderungen
+
+=== 💡 Fazit: Ressourcen als Wettbewerbsvorteil
+
+Unsere Schlüsselressourcen sind mehr als nur Produktionsfaktoren -- sie sind der strategische Kern unseres Geschäftsmodells. Durch die intelligente Kombination aus:
+
+* ✅ *Qualifiziertem Personal* mit nachgewiesener Expertise und Engagement
+* ✅ *Modernster IT-Infrastruktur* für maximale Effizienz und Transparenz
+* ✅ *Starken Partnerschaften* ohne Interessenskonflikte
+* ✅ *Professioneller Ausstattung* für hochwertige Dienstleistungen
+* ✅ *Solider Finanzierung* für nachhaltiges Wachstum
+
+schaffen wir die Basis für unsere Marktposition als führender Anbieter für digitale, qualitätsgesicherte energetische Sanierung im Rheinischen Revier. Diese Ressourcen-Synergie ermöglicht es uns, die ambitionierten Effizienzgewinne von 13-14% gegenüber konventionellen Ansätzen tatsächlich zu realisieren und unseren Kunden den versprochenen Mehrwert zu liefern.
+
+== 🔧 Schlüsselaktivitäten
+
+Unsere Schlüsselaktivitäten bilden das operationelle Rückgrat für eine reibungslose, transparente und qualitativ hochwertige energetische Sanierung – von der ersten Bestandsaufnahme bis zum langfristigen Betrieb. Jede Aktivität ist so gestaltet, dass auch Leser ohne Bauhintergrund den Ablauf und den Nutzen unmittelbar verstehen können.
+
+=== 🚀 1. Lieferantenzulassung & Standardmaterialien  
+**Ziel:** Klare Vorgaben minimieren Planungsunsicherheiten, verhindern Nachträge und sichern gleichbleibende Qualität.
+
+*Zentrale Produktbibliothek*  
+- Alle Standardkomponenten (Fenster, Türen, Bodenbeläge, Sanitärobjekte, Farben) sind mit Hersteller, Artikelnummer, Leistungsmerkmalen und Link zur Online-Datenbank erfasst.  
+- Automatische Synchronisation mit dem BIM-Modell in der Planungsphase.  
+
+*Verbindliche Vorgaben*  
+- Externe Gewerke dürfen nur freigegebene Materialien einsetzen; Ausnahmen nur mit schriftlicher Freigabe der Geschäftsführung.  
+- **Warum?** Klare Regeln reduzieren Abstimmungsaufwand und minimieren das Risiko ungeplanter Mehrkosten.
+
+*Zertifikate & Prüfzeugnisse*  
+- CE-Kennzeichen, „Blauer Engel“-Nachweise und DIN-Zertifikate sind digital hinterlegt.  
+- Automatische Konformitätsprüfung vor jeder Materialbestellung.  
+
+image::lieferantenzulassung.png[Lieferantenzulassung & Standardmaterialien, 75%]
+
+=== 📦 2. Beschaffungsmanagement & Logistik  
+**Ziel:** Nahtlose Materialversorgung minimiert Baustellenunterbrechungen und spart Kosten.
+
+*Phasenweiser Aufbau*  
+- Kurzfristig: Partner bestellen über VOB-Rahmenverträge selbst.  
+- Mittelfristig: DWE/Arcavio übernimmt zentral den Einkauf für Ausbaugewerke (Trockenbau, Türen, Bodenbeläge).  
+
+*Just-in-Time-Lieferung*  
+- Materialien termingerecht mit eigenem Kran- und Abladedienst direkt zur Baustelle.  
+- Vormontagezonen im Gebäude: Großbauteile werden geschützt gelagert.  
+- **Warum?** Minimale Lagerkosten und maximale Baustelleneffizienz.
+
+*Digitale Vernetzung*  
+- Web-API verbindet BIM-Modell, LV-Software und Einkaufssystem.  
+- Live-Status von Beständen und Lieferungen im Kundenportal sichtbar.
+
+image::logistik.png[Beschaffungsmanagement & Logistik, 75%]
+
+=== 🔍 3. Baustellen-Qualitätssicherung  
+**Ziel:** Systematische Prüfungen sichern handwerkliche Präzision und reduzieren teure Nacharbeiten.
+
+*Mehrstufige Prüfungen*  
+- **Tägliche QS-Begehungen** in kritischen Phasen (Rohbau, Abdichtung).  
+- **Wöchentliche Checks** für Ausbaugewerke (Innenausbau, Haustechnik).  
+
+*Digitale Checklisten & Mängel-Ticketing*  
+- Foto-Tickets und QR-Codes an Bauteilen, Nachverfolgung im Portal.  
+- **Warum?** Sofortige Dokumentation verhindert Informationsverluste und Verzögerungen.
+
+*Formalisierte Abnahmen*  
+- Teilabnahmen nach jedem Gewerk mit digitalem Protokoll.  
+- Endabnahme mit unterschriebenem Mängelbericht und Freigabe durch den Kunden.
+
+image::qs_checklist.png[Baustellen-QS mit digitalen Checklisten, 75%]
+
+=== 📱 4. Dokumentations- & Kommunikationsprozess  
+**Ziel:** Volle Transparenz durch lückenlose, digitale Begleitung aller Projektschritte.
+
+*Portal-Dashboard*  
+- Gantt-Diagramm mit Meilensteinen, Baufortschritt und Verantwortlichkeiten.  
+
+*Mängel-Ticketing & Automatisierte Berichte*  
+- Offene Aufgaben, Fristen und Zuständigkeiten immer im Blick.  
+- QS-Reports, Zahlungs-Reminder und Projekt-Snapshots per E-Mail.  
+
+*Dokumenten-Archiv*  
+- Verträge, Abnahmeprotokolle, Prüfzeugnisse und IFC-Modelle rund um die Uhr abrufbar.  
+- **Warum?** Ein zentraler Ablageort spart Zeit und erhöht die Rechtssicherheit.
+
+*Change-Management*  
+- Änderungswünsche als strukturierter Workflow mit Kostenschätzung, Freigabe und Nachtragsdokumentation.
+
+image::portal_dashboard.png[Digitales Kundenportal mit Dashboard, 75%]
+
+=== 🏗️ 5. BIM-Integration  
+**Ziel:** 3-D-Modellierung als zentraler Motor für Effizienz, Planungs­sicherheit und konsistente Daten.
+
+*Automatisierte Kollisionsprüfung*  
+- Automatische Prüfungen in jeder Planungsrevision (z. B. Solibri).  
+- **Warum?** Frühes Erkennen von Planungsinkonsistenzen verhindert teure Nachbesserungen.
+
+*Produkt-Verknüpfungen*  
+- Jedes Bauteil enthält Parameter mit Herstellerlink, Einbauanleitung und Prüfzeugnissen.  
+
+*Mengenauszüge & Live-Updates*  
+- Dynamische Mengen direkt aus dem Modell für LV-Erstellung und Einkauf.  
+- Änderungen fließen automatisch in Reports und das Portal.
+
+image::bim_integration.png[BIM-Integration mit Echtzeit-Updates, 75%]
+
+=== 💡 Fazit  
+Diese fünf Schlüsselaktivitäten – verbindliche Materialvorgaben, optimiertes Beschaffungsmanagement, systematische Qualitätssicherung, lückenlose Dokumentation und tiefgangende BIM-Integration – schaffen:
+
+- **Verlässlichkeit:** Standardisierte Abläufe minimieren Risiken und Missverständnisse.  
+- **Qualität:** Mehrfache Prüfungen und zertifizierte Materialien garantieren Spitzenqualität.  
+- **Transparenz:** Jeder Projektstand ist für alle Beteiligten jederzeit nachvollziehbar.  
+- **Effizienz:** Automatisierte Prozesse sparen Zeit, senken Kosten und vermeiden Nacharbeiten.  
+
+So erzielen wir für unsere Kunden nachhaltige Mehrwerte und sichern den Erfolg jedes einzelnen Sanierungsprojekts.
+
+== Schlüsselpartner
+
+* Feste Handwerksbetriebe/Planungsbüros im Rahmen von Partnerschaften
+* Lieferanten nach Gewerken, direkte Verträge oder Fachgroßhandel je nach Produktgruppe
+* Unabhängige Sachverständige zur externen Überwachung
+
+*Fragen:*
+
+* Sind Kooperationen mit Finanzdienstleistern oder Förderberatern angedacht?
+* Welche Kriterien gelten für die Auswahl und Bindung neuer Partner?
+
+== Kostenstruktur
+
+* Fixkosten: Personal, IT, Verwaltung, Marketing
+* Variable Kosten: Projektbezogene Material- und Vergabekosten, Subunternehmer
+* Break-even: hängt von Projektdichte, durchschnittlichem Projektvolumen und Skaleneffekten ab
+
+*Fragen:*
+
+* Wie wird das Marketingbudget aufgeteilt (digital vs. klassisch)?
+* Wie viele Projekte pro Jahr sind für die Rentabilität eingeplant?
+
+== Skalierung & Innovation
+
+* Schrittweise Ausweitung vom Raum Aachen ins gesamte Rheinische Revier, perspektivisch NRW
+* Erweiterung des Leistungsangebots um neue Technologien (Smart Home, E-Mobilität, Batterie)
+* Technische Innovationen insbesondere im digitalen Prozessmanagement und Kundenservice
+
+*Fragen:*
+
+* Liegen bereits erste Überlegungen für F\&E-Vorhaben (z.B. digitale Tools, Produktinnovationen) vor?
+* Gibt es strategische Ziele für Umsatz- oder Projektzahlen in den nächsten 5 Jahren?
+
+== Nachhaltigkeit & ESG
+
+Unser Geschäftsmodell leistet einen substanziellen Beitrag zur Energiewende und erfüllt aktuelle ESG-Anforderungen:
+
+* Deutlich reduzierte CO₂-Emissionen pro saniertem Gebäude
+* Zielgruppengerechte Information zu Fördermöglichkeiten und nachhaltigen Standards
+* Anstreben relevanter Zertifikate (z.B. DGNB, BREEAM)
+
+*Fragen:*
+
+* Wie sollen CO₂-Einsparungen projektspezifisch dokumentiert werden?
+* Welche Zertifizierungen sind konkret für die Projekte vorgesehen?
